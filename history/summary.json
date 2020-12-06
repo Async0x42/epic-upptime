@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/confluence.ongarde.net",
     "slug": "confluence",
     "status": "down",
-    "uptime": "1.90%",
-    "uptimeDay": "1.90%",
-    "uptimeWeek": "1.90%",
-    "uptimeMonth": "1.90%",
-    "uptimeYear": "1.90%",
-    "time": 367,
-    "timeDay": 367,
-    "timeWeek": 367,
-    "timeMonth": 367,
-    "timeYear": 367,
+    "uptime": "0.13%",
+    "uptimeDay": "0.13%",
+    "uptimeWeek": "0.13%",
+    "uptimeMonth": "0.13%",
+    "uptimeYear": "0.13%",
+    "time": 342,
+    "timeDay": 342,
+    "timeWeek": 342,
+    "timeMonth": 342,
+    "timeYear": 342,
     "dailyMinutesDown": {
-      "2020-12-06": 0
+      "2020-12-06": 10
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 339,
-    "timeDay": 339,
-    "timeWeek": 339,
-    "timeMonth": 339,
-    "timeYear": 339,
+    "time": 411,
+    "timeDay": 411,
+    "timeWeek": 411,
+    "timeMonth": 411,
+    "timeYear": 411,
     "dailyMinutesDown": {}
   },
   {
@@ -43,18 +43,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2020-12-06": 0
+      "2020-12-06": 10
     }
   }
 ]
