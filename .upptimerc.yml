@@ -20,6 +20,8 @@ sites:
     url: https://caface.ongarde.net
   - name: DGCB (Staging)
     url: https://dgcb.ongarde.net
+  - name: DGCB Knowledge
+    url: https://v10.ongarde.net
   - name: DTC (Staging)
     url: https://dtc.ongarde.net
   - name: Equella
