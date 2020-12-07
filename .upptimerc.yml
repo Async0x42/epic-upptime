@@ -16,8 +16,8 @@ sites:
     url: https://h5p.ongarde.net/
   - name: CAF-ACE
     url: https://caface-rfacace.forces.gc.ca
-  - name: CAF-ACE (Staging)
-    url: https://caface.ongarde.net
+#  - name: CAF-ACE (Staging)
+#    url: https://caface.ongarde.net
   - name: DGCB (Staging)
     url: https://dgcb.ongarde.net
   - name: DGCB Knowledge
