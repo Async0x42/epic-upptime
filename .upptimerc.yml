@@ -44,7 +44,7 @@ status-website:
   introMessage: Server status intro message...
   navbar:
     - title: Status
-      href: /
+      href: /epic-upptime
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
