@@ -16,7 +16,7 @@
     "timeMonth": 316,
     "timeYear": 316,
     "dailyMinutesDown": {
-      "2020-12-09": 16,
+      "2020-12-09": 1076,
       "2020-12-08": 1440,
       "2020-12-07": 1440,
       "2020-12-06": 20
@@ -183,7 +183,7 @@
     "timeMonth": 273,
     "timeYear": 273,
     "dailyMinutesDown": {
-      "2020-12-09": 16,
+      "2020-12-09": 1076,
       "2020-12-08": 1440,
       "2020-12-07": 1440,
       "2020-12-06": 4
@@ -194,18 +194,20 @@
     "url": "https://forces.ca",
     "icon": "https://favicons.githubusercontent.com/forces.ca",
     "slug": "forces-ca",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 526,
-    "timeDay": 546,
-    "timeWeek": 526,
-    "timeMonth": 526,
-    "timeYear": 526,
-    "dailyMinutesDown": {}
+    "time": 507,
+    "timeDay": 463,
+    "timeWeek": 507,
+    "timeMonth": 507,
+    "timeYear": 507,
+    "dailyMinutesDown": {
+      "2020-12-09": 0
+    }
   },
   {
     "name": "Forces.ca (Staging)",
