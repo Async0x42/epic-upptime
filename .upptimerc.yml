@@ -4,8 +4,8 @@ repo: epic-upptime # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: Confluence
-    url: https://confluence.ongarde.net/
+  #- name: Confluence
+  #  url: https://confluence.ongarde.net/
   - name: GitLab
     url: https://git.ongarde.net/
   - name: Snap Survey (External)
