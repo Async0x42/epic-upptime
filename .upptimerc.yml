@@ -34,6 +34,8 @@ sites:
     url: https://snipe.ongarde.net
   - name: FMOST-Outcan
     url: https://outcan.ongarde.net
+  - name: GitLab
+    url: https://git.ongarde.net
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
