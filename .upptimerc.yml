@@ -32,6 +32,8 @@ sites:
     url: https://forces.ongarde.net
   - name: Snipe-IT
     url: https://snipe.ongarde.net
+  - name: FMOST-Outcan
+    url: https://outcan.ongarde.net
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
