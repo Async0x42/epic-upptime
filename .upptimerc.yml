@@ -36,6 +36,8 @@ sites:
     url: https://outcan.ongarde.net
   - name: Learning Locker
     url: https://lrs.ongarde.net
+  - name: Keycloak
+    url: https://keycloak.ongarde.net
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
