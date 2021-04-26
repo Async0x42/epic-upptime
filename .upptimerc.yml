@@ -40,6 +40,8 @@ sites:
     url: https://keycloak.ongarde.net
   - name: Chatbot
     url: https://chat.ongarde.net
+  - name: ADL App API
+    url: https://adlapp.ongarde.net/api/article_categories/
     
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
