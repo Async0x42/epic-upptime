@@ -13,7 +13,7 @@
     "time": 483,
     "timeDay": 511,
     "timeWeek": 609,
-    "timeMonth": 573,
+    "timeMonth": 570,
     "timeYear": 483,
     "dailyMinutesDown": {
       "2021-03-10": 235,
@@ -39,7 +39,7 @@
     "time": 364,
     "timeDay": 552,
     "timeWeek": 373,
-    "timeMonth": 351,
+    "timeMonth": 345,
     "timeYear": 364,
     "dailyMinutesDown": {
       "2021-02-20": 120
@@ -59,7 +59,7 @@
     "time": 658,
     "timeDay": 670,
     "timeWeek": 435,
-    "timeMonth": 471,
+    "timeMonth": 465,
     "timeYear": 658,
     "dailyMinutesDown": {
       "2021-03-06": 25,
@@ -86,7 +86,7 @@
     "time": 694,
     "timeDay": 1331,
     "timeWeek": 844,
-    "timeMonth": 688,
+    "timeMonth": 687,
     "timeYear": 694,
     "dailyMinutesDown": {
       "2021-03-10": 234,
@@ -107,7 +107,7 @@
     "time": 323,
     "timeDay": 492,
     "timeWeek": 347,
-    "timeMonth": 316,
+    "timeMonth": 314,
     "timeYear": 323,
     "dailyMinutesDown": {
       "2021-03-10": 234,
@@ -134,7 +134,7 @@
     "time": 550,
     "timeDay": 300,
     "timeWeek": 317,
-    "timeMonth": 321,
+    "timeMonth": 316,
     "timeYear": 550,
     "dailyMinutesDown": {
       "2021-03-10": 233,
@@ -160,7 +160,7 @@
     "time": 529,
     "timeDay": 658,
     "timeWeek": 571,
-    "timeMonth": 494,
+    "timeMonth": 490,
     "timeYear": 529,
     "dailyMinutesDown": {
       "2021-03-10": 233,
@@ -197,8 +197,8 @@
     "uptimeYear": "99.31%",
     "time": 454,
     "timeDay": 562,
-    "timeWeek": 464,
-    "timeMonth": 410,
+    "timeWeek": 455,
+    "timeMonth": 407,
     "timeYear": 454,
     "dailyMinutesDown": {
       "2021-03-10": 233,
@@ -213,15 +213,15 @@
     "icon": "https://favicons.githubusercontent.com/equella.ongarde.net",
     "slug": "equella",
     "status": "up",
-    "uptime": "43.79%",
+    "uptime": "43.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "43.79%",
+    "uptimeYear": "43.82%",
     "time": 340,
-    "timeDay": 829,
+    "timeDay": 1056,
     "timeWeek": 512,
-    "timeMonth": 444,
+    "timeMonth": 441,
     "timeYear": 340,
     "dailyMinutesDown": {
       "2021-03-10": 232,
@@ -334,7 +334,7 @@
     "time": 1077,
     "timeDay": 782,
     "timeWeek": 628,
-    "timeMonth": 577,
+    "timeMonth": 571,
     "timeYear": 1077,
     "dailyMinutesDown": {
       "2021-03-09": 234,
@@ -352,17 +352,17 @@
     "url": "https://forces.ongarde.net",
     "icon": "https://favicons.githubusercontent.com/forces.ongarde.net",
     "slug": "forces-ca-staging",
-    "status": "down",
+    "status": "up",
     "uptime": "98.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.86%",
-    "time": 848,
-    "timeDay": 883,
-    "timeWeek": 766,
-    "timeMonth": 899,
-    "timeYear": 848,
+    "time": 849,
+    "timeDay": 902,
+    "timeWeek": 780,
+    "timeMonth": 903,
+    "timeYear": 849,
     "dailyMinutesDown": {
       "2021-03-10": 223,
       "2021-02-24": 43,
@@ -390,7 +390,7 @@
     "time": 473,
     "timeDay": 506,
     "timeWeek": 476,
-    "timeMonth": 447,
+    "timeMonth": 443,
     "timeYear": 473,
     "dailyMinutesDown": {
       "2021-03-10": 222,
@@ -419,7 +419,7 @@
     "time": 389,
     "timeDay": 455,
     "timeWeek": 377,
-    "timeMonth": 339,
+    "timeMonth": 335,
     "timeYear": 389,
     "dailyMinutesDown": {
       "2021-03-10": 222
@@ -439,7 +439,7 @@
     "time": 303,
     "timeDay": 341,
     "timeWeek": 329,
-    "timeMonth": 313,
+    "timeMonth": 309,
     "timeYear": 303,
     "dailyMinutesDown": {
       "2021-03-10": 221
@@ -459,7 +459,7 @@
     "time": 338,
     "timeDay": 295,
     "timeWeek": 302,
-    "timeMonth": 296,
+    "timeMonth": 293,
     "timeYear": 338,
     "dailyMinutesDown": {}
   },
@@ -477,7 +477,7 @@
     "time": 433,
     "timeDay": 796,
     "timeWeek": 499,
-    "timeMonth": 433,
+    "timeMonth": 431,
     "timeYear": 433,
     "dailyMinutesDown": {}
   },
@@ -493,7 +493,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 298,
-    "timeDay": 316,
+    "timeDay": 315,
     "timeWeek": 300,
     "timeMonth": 298,
     "timeYear": 298,
