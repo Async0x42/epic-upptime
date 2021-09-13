@@ -50,7 +50,7 @@
     "url": "https://lp-pa.forces.gc.ca/portal/",
     "icon": "https://favicons.githubusercontent.com/lp-pa.forces.gc.ca",
     "slug": "learning-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -512,7 +512,7 @@
     "uptimeYear": "100.00%",
     "time": 397,
     "timeDay": 554,
-    "timeWeek": 471,
+    "timeWeek": 473,
     "timeMonth": 477,
     "timeYear": 397,
     "dailyMinutesDown": {}
