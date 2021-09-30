@@ -504,17 +504,17 @@
     "url": "https://adlapp.ongarde.net/api/article_categories/",
     "icon": "https://favicons.githubusercontent.com/adlapp.ongarde.net",
     "slug": "adl-app-api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 375,
-    "timeDay": 555,
-    "timeWeek": 344,
-    "timeMonth": 372,
-    "timeYear": 375,
+    "time": 394,
+    "timeDay": 1182,
+    "timeWeek": 435,
+    "timeMonth": 402,
+    "timeYear": 394,
     "dailyMinutesDown": {}
   }
 ]
