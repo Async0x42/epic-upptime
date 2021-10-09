@@ -231,11 +231,11 @@
     "icon": "https://favicons.githubusercontent.com/equella.ongarde.net",
     "slug": "equella",
     "status": "up",
-    "uptime": "69.92%",
+    "uptime": "69.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "69.92%",
+    "uptimeYear": "69.94%",
     "time": 395,
     "timeDay": 266,
     "timeWeek": 362,
@@ -437,7 +437,7 @@
     "time": 686,
     "timeDay": 231,
     "timeWeek": 978,
-    "timeMonth": 984,
+    "timeMonth": 995,
     "timeYear": 686,
     "dailyMinutesDown": {
       "2021-03-10": 222
@@ -468,7 +468,7 @@
     "url": "https://keycloak.ongarde.net",
     "icon": "https://favicons.githubusercontent.com/keycloak.ongarde.net",
     "slug": "keycloak",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -513,7 +513,7 @@
     "time": 397,
     "timeDay": 287,
     "timeWeek": 294,
-    "timeMonth": 415,
+    "timeMonth": 416,
     "timeYear": 397,
     "dailyMinutesDown": {}
   }
