@@ -13,7 +13,7 @@
     "time": 515,
     "timeDay": 430,
     "timeWeek": 385,
-    "timeMonth": 462,
+    "timeMonth": 456,
     "timeYear": 515,
     "dailyMinutesDown": {
       "2021-03-10": 235,
@@ -39,7 +39,7 @@
     "time": 368,
     "timeDay": 280,
     "timeWeek": 247,
-    "timeMonth": 305,
+    "timeMonth": 303,
     "timeYear": 368,
     "dailyMinutesDown": {
       "2021-02-20": 120
@@ -50,16 +50,16 @@
     "url": "https://lp-pa.forces.gc.ca/portal/",
     "icon": "https://favicons.githubusercontent.com/lp-pa.forces.gc.ca",
     "slug": "learning-portal",
-    "status": "down",
+    "status": "up",
     "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 789,
-    "timeDay": 2936,
-    "timeWeek": 2330,
-    "timeMonth": 1666,
+    "timeDay": 2862,
+    "timeWeek": 2290,
+    "timeMonth": 1664,
     "timeYear": 789,
     "dailyMinutesDown": {
       "2021-03-06": 25,
@@ -86,7 +86,7 @@
     "time": 729,
     "timeDay": 835,
     "timeWeek": 773,
-    "timeMonth": 804,
+    "timeMonth": 803,
     "timeYear": 729,
     "dailyMinutesDown": {
       "2021-03-10": 234,
@@ -107,7 +107,7 @@
     "time": 312,
     "timeDay": 235,
     "timeWeek": 238,
-    "timeMonth": 283,
+    "timeMonth": 279,
     "timeYear": 312,
     "dailyMinutesDown": {
       "2021-03-10": 234,
@@ -134,7 +134,7 @@
     "time": 304,
     "timeDay": 232,
     "timeWeek": 243,
-    "timeMonth": 298,
+    "timeMonth": 296,
     "timeYear": 304,
     "dailyMinutesDown": {}
   },
@@ -152,7 +152,7 @@
     "time": 457,
     "timeDay": 241,
     "timeWeek": 244,
-    "timeMonth": 300,
+    "timeMonth": 296,
     "timeYear": 457,
     "dailyMinutesDown": {
       "2021-03-10": 233,
@@ -178,7 +178,7 @@
     "time": 709,
     "timeDay": 450,
     "timeWeek": 714,
-    "timeMonth": 779,
+    "timeMonth": 788,
     "timeYear": 709,
     "dailyMinutesDown": {
       "2021-03-10": 233,
@@ -216,7 +216,7 @@
     "time": 531,
     "timeDay": 740,
     "timeWeek": 391,
-    "timeMonth": 408,
+    "timeMonth": 405,
     "timeYear": 531,
     "dailyMinutesDown": {
       "2021-03-10": 233,
@@ -239,7 +239,7 @@
     "time": 391,
     "timeDay": 168,
     "timeWeek": 217,
-    "timeMonth": 387,
+    "timeMonth": 386,
     "timeYear": 391,
     "dailyMinutesDown": {
       "2021-03-10": 232,
@@ -352,7 +352,7 @@
     "time": 881,
     "timeDay": 481,
     "timeWeek": 557,
-    "timeMonth": 553,
+    "timeMonth": 551,
     "timeYear": 881,
     "dailyMinutesDown": {
       "2021-03-09": 234,
@@ -379,7 +379,7 @@
     "time": 1301,
     "timeDay": 1675,
     "timeWeek": 1673,
-    "timeMonth": 2194,
+    "timeMonth": 2210,
     "timeYear": 1301,
     "dailyMinutesDown": {
       "2021-03-10": 223,
@@ -408,7 +408,7 @@
     "time": 551,
     "timeDay": 410,
     "timeWeek": 671,
-    "timeMonth": 805,
+    "timeMonth": 809,
     "timeYear": 551,
     "dailyMinutesDown": {
       "2021-03-10": 222,
@@ -437,7 +437,7 @@
     "time": 702,
     "timeDay": 560,
     "timeWeek": 813,
-    "timeMonth": 1039,
+    "timeMonth": 1048,
     "timeYear": 702,
     "dailyMinutesDown": {
       "2021-03-10": 222
@@ -457,7 +457,7 @@
     "time": 325,
     "timeDay": 226,
     "timeWeek": 252,
-    "timeMonth": 295,
+    "timeMonth": 293,
     "timeYear": 325,
     "dailyMinutesDown": {
       "2021-03-10": 221
@@ -477,7 +477,7 @@
     "time": 337,
     "timeDay": 250,
     "timeWeek": 222,
-    "timeMonth": 289,
+    "timeMonth": 287,
     "timeYear": 337,
     "dailyMinutesDown": {}
   },
@@ -495,7 +495,7 @@
     "time": 434,
     "timeDay": 303,
     "timeWeek": 308,
-    "timeMonth": 375,
+    "timeMonth": 371,
     "timeYear": 434,
     "dailyMinutesDown": {}
   },
@@ -513,7 +513,7 @@
     "time": 382,
     "timeDay": 298,
     "timeWeek": 270,
-    "timeMonth": 374,
+    "timeMonth": 375,
     "timeYear": 382,
     "dailyMinutesDown": {}
   }
