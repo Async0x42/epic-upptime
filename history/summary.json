@@ -59,7 +59,7 @@
     "time": 889,
     "timeDay": 415,
     "timeWeek": 452,
-    "timeMonth": 1058,
+    "timeMonth": 910,
     "timeYear": 889,
     "dailyMinutesDown": {
       "2021-03-06": 25,
@@ -399,7 +399,7 @@
     "url": "https://snipe.ongarde.net",
     "icon": "https://favicons.githubusercontent.com/snipe.ongarde.net",
     "slug": "snipe-it",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -512,7 +512,7 @@
     "uptimeYear": "100.00%",
     "time": 360,
     "timeDay": 262,
-    "timeWeek": 320,
+    "timeWeek": 322,
     "timeMonth": 331,
     "timeYear": 360,
     "dailyMinutesDown": {}
