@@ -428,17 +428,17 @@
     "url": "https://outcan.ongarde.net",
     "icon": "https://favicons.githubusercontent.com/outcan.ongarde.net",
     "slug": "fmost-outcan",
-    "status": "down",
+    "status": "up",
     "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 798,
-    "timeDay": 1435,
-    "timeWeek": 852,
+    "time": 799,
+    "timeDay": 1351,
+    "timeWeek": 866,
     "timeMonth": 1088,
-    "timeYear": 798,
+    "timeYear": 799,
     "dailyMinutesDown": {
       "2021-03-10": 222
     }
