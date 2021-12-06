@@ -12,7 +12,7 @@
     "uptimeYear": "99.68%",
     "time": 507,
     "timeDay": 0,
-    "timeWeek": 431,
+    "timeWeek": 401,
     "timeMonth": 442,
     "timeYear": 507,
     "dailyMinutesDown": {
@@ -231,11 +231,11 @@
     "icon": "https://favicons.githubusercontent.com/equella.ongarde.net",
     "slug": "equella",
     "status": "down",
-    "uptime": "74.71%",
+    "uptime": "74.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "74.71%",
+    "uptimeYear": "74.72%",
     "time": 386,
     "timeDay": 0,
     "timeWeek": 277,
@@ -334,8 +334,7 @@
       "2020-12-10": 1440,
       "2020-12-09": 1440,
       "2020-12-08": 1440,
-      "2020-12-07": 1440,
-      "2020-12-06": 4
+      "2020-12-07": 1440
     }
   },
   {
@@ -511,8 +510,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 355,
-    "timeDay": 273,
-    "timeWeek": 365,
+    "timeDay": 280,
+    "timeWeek": 366,
     "timeMonth": 323,
     "timeYear": 355,
     "dailyMinutesDown": {}
