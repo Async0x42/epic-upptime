@@ -231,11 +231,11 @@
     "icon": "https://favicons.githubusercontent.com/equella.ongarde.net",
     "slug": "equella",
     "status": "up",
-    "uptime": "75.12%",
+    "uptime": "75.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "76.15%",
+    "uptimeYear": "76.16%",
     "time": 384,
     "timeDay": 0,
     "timeWeek": 317,
@@ -328,8 +328,7 @@
       "2020-12-16": 1440,
       "2020-12-15": 1440,
       "2020-12-14": 1440,
-      "2020-12-13": 1440,
-      "2020-12-12": 1440
+      "2020-12-13": 1440
     }
   },
   {
@@ -497,7 +496,7 @@
     "url": "https://adlapp.ongarde.net/api/article_categories/",
     "icon": "https://favicons.githubusercontent.com/adlapp.ongarde.net",
     "slug": "adl-app-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -505,7 +504,7 @@
     "uptimeYear": "100.00%",
     "time": 353,
     "timeDay": 450,
-    "timeWeek": 317,
+    "timeWeek": 319,
     "timeMonth": 327,
     "timeYear": 353,
     "dailyMinutesDown": {}
