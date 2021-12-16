@@ -60,7 +60,7 @@
     "timeDay": 513,
     "timeWeek": 2464,
     "timeMonth": 852,
-    "timeYear": 899,
+    "timeYear": 900,
     "dailyMinutesDown": {
       "2021-03-06": 25,
       "2021-03-01": 20,
@@ -87,7 +87,7 @@
     "timeDay": 756,
     "timeWeek": 784,
     "timeMonth": 742,
-    "timeYear": 739,
+    "timeYear": 738,
     "dailyMinutesDown": {
       "2021-03-10": 234,
       "2021-01-24": 55
@@ -108,7 +108,7 @@
     "timeDay": 525,
     "timeWeek": 302,
     "timeMonth": 243,
-    "timeYear": 309,
+    "timeYear": 310,
     "dailyMinutesDown": {
       "2021-03-10": 234,
       "2021-02-24": 43,
@@ -151,7 +151,7 @@
     "timeDay": 436,
     "timeWeek": 295,
     "timeMonth": 258,
-    "timeYear": 412,
+    "timeYear": 413,
     "dailyMinutesDown": {
       "2021-03-10": 233,
       "2021-02-24": 43,
@@ -212,7 +212,7 @@
     "timeDay": 520,
     "timeWeek": 3086,
     "timeMonth": 2944,
-    "timeYear": 1129,
+    "timeYear": 1131,
     "dailyMinutesDown": {
       "2021-03-10": 233,
       "2021-02-05": 1034,
@@ -226,7 +226,7 @@
     "icon": "https://favicons.githubusercontent.com/equella.ongarde.net",
     "slug": "equella",
     "status": "down",
-    "uptime": "75.45%",
+    "uptime": "75.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -235,7 +235,7 @@
     "timeDay": 399,
     "timeWeek": 297,
     "timeMonth": 278,
-    "timeYear": 386,
+    "timeYear": 387,
     "dailyMinutesDown": {
       "2021-03-10": 232,
       "2021-03-08": 1257,
@@ -337,7 +337,7 @@
     "timeDay": 985,
     "timeWeek": 799,
     "timeMonth": 662,
-    "timeYear": 878,
+    "timeYear": 879,
     "dailyMinutesDown": {
       "2021-03-09": 234,
       "2021-03-08": 634,
@@ -363,7 +363,7 @@
     "timeDay": 2334,
     "timeWeek": 2023,
     "timeMonth": 1942,
-    "timeYear": 1473,
+    "timeYear": 1475,
     "dailyMinutesDown": {
       "2021-03-10": 223,
       "2021-02-24": 43,
@@ -390,7 +390,7 @@
     "timeDay": 488,
     "timeWeek": 743,
     "timeMonth": 801,
-    "timeYear": 601,
+    "timeYear": 602,
     "dailyMinutesDown": {
       "2021-03-10": 222,
       "2021-02-24": 43,
@@ -483,14 +483,14 @@
     "url": "https://adlapp.ongarde.net/api/article_categories/",
     "icon": "https://favicons.githubusercontent.com/adlapp.ongarde.net",
     "slug": "adl-app-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 345,
-    "timeDay": 363,
+    "timeDay": 368,
     "timeWeek": 288,
     "timeMonth": 307,
     "timeYear": 345,
