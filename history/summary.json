@@ -175,7 +175,7 @@
     "timeDay": 810,
     "timeWeek": 732,
     "timeMonth": 693,
-    "timeYear": 721,
+    "timeYear": 722,
     "dailyMinutesDown": {
       "2021-03-10": 233,
       "2021-03-05": 1034,
@@ -212,7 +212,7 @@
     "timeDay": 524,
     "timeWeek": 2005,
     "timeMonth": 3001,
-    "timeYear": 1161,
+    "timeYear": 1163,
     "dailyMinutesDown": {
       "2021-03-10": 233,
       "2021-02-05": 1034,
@@ -334,7 +334,7 @@
     "timeDay": 803,
     "timeWeek": 714,
     "timeMonth": 679,
-    "timeYear": 879,
+    "timeYear": 880,
     "dailyMinutesDown": {
       "2021-03-09": 234,
       "2021-03-08": 634,
@@ -360,7 +360,7 @@
     "timeDay": 2126,
     "timeWeek": 2205,
     "timeMonth": 2065,
-    "timeYear": 1488,
+    "timeYear": 1490,
     "dailyMinutesDown": {
       "2021-03-10": 223,
       "2021-02-24": 43,
@@ -404,17 +404,17 @@
     "url": "https://outcan.ongarde.net",
     "icon": "https://favicons.githubusercontent.com/outcan.ongarde.net",
     "slug": "fmost-outcan",
-    "status": "down",
+    "status": "up",
     "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
-    "time": 877,
-    "timeDay": 2684,
-    "timeWeek": 897,
-    "timeMonth": 1218,
-    "timeYear": 877,
+    "time": 876,
+    "timeDay": 2357,
+    "timeWeek": 892,
+    "timeMonth": 1211,
+    "timeYear": 876,
     "dailyMinutesDown": {
       "2021-03-10": 222
     }
@@ -480,7 +480,7 @@
     "url": "https://adlapp.ongarde.net/api/article_categories/",
     "icon": "https://favicons.githubusercontent.com/adlapp.ongarde.net",
     "slug": "adl-app-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
