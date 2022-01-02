@@ -14,7 +14,7 @@
     "timeDay": 523,
     "timeWeek": 478,
     "timeMonth": 435,
-    "timeYear": 512,
+    "timeYear": 513,
     "dailyMinutesDown": {
       "2021-03-10": 235,
       "2021-02-07": 16,
@@ -40,7 +40,7 @@
     "timeDay": 335,
     "timeWeek": 378,
     "timeMonth": 312,
-    "timeYear": 360,
+    "timeYear": 361,
     "dailyMinutesDown": {
       "2021-02-20": 120
     }
@@ -60,7 +60,7 @@
     "timeDay": 689,
     "timeWeek": 564,
     "timeMonth": 951,
-    "timeYear": 902,
+    "timeYear": 903,
     "dailyMinutesDown": {
       "2021-03-06": 25,
       "2021-03-01": 20,
@@ -86,7 +86,7 @@
     "timeDay": 1919,
     "timeWeek": 941,
     "timeMonth": 744,
-    "timeYear": 732,
+    "timeYear": 731,
     "dailyMinutesDown": {
       "2021-03-10": 234,
       "2021-01-24": 55
@@ -107,7 +107,7 @@
     "timeDay": 520,
     "timeWeek": 365,
     "timeMonth": 301,
-    "timeYear": 310,
+    "timeYear": 311,
     "dailyMinutesDown": {
       "2021-03-10": 234,
       "2021-02-24": 43,
@@ -174,7 +174,7 @@
     "timeDay": 3157,
     "timeWeek": 1158,
     "timeMonth": 764,
-    "timeYear": 738,
+    "timeYear": 739,
     "dailyMinutesDown": {
       "2021-03-10": 233,
       "2021-03-05": 1034,
@@ -211,7 +211,7 @@
     "timeDay": 1940,
     "timeWeek": 4820,
     "timeMonth": 3623,
-    "timeYear": 1426,
+    "timeYear": 1428,
     "dailyMinutesDown": {
       "2021-03-10": 233,
       "2021-02-05": 1034,
@@ -229,12 +229,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "82.17%",
+    "uptimeYear": "82.18%",
     "time": 390,
     "timeDay": 816,
     "timeWeek": 451,
     "timeMonth": 437,
-    "timeYear": 399,
+    "timeYear": 400,
     "dailyMinutesDown": {
       "2021-03-10": 232,
       "2021-03-08": 1257,
@@ -319,7 +319,7 @@
     "timeDay": 764,
     "timeWeek": 794,
     "timeMonth": 706,
-    "timeYear": 885,
+    "timeYear": 886,
     "dailyMinutesDown": {
       "2021-03-09": 234,
       "2021-03-08": 634,
@@ -345,7 +345,7 @@
     "timeDay": 4409,
     "timeWeek": 2145,
     "timeMonth": 2544,
-    "timeYear": 1579,
+    "timeYear": 1582,
     "dailyMinutesDown": {
       "2021-03-10": 223,
       "2021-02-24": 43,
@@ -389,7 +389,7 @@
     "url": "https://outcan.ongarde.net",
     "icon": "https://favicons.githubusercontent.com/outcan.ongarde.net",
     "slug": "fmost-outcan",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -472,8 +472,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 342,
-    "timeDay": 273,
-    "timeWeek": 294,
+    "timeDay": 280,
+    "timeWeek": 293,
     "timeMonth": 303,
     "timeYear": 342,
     "dailyMinutesDown": {}
