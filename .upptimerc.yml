@@ -42,6 +42,8 @@ sites:
     url: https://chat.ongarde.net
   - name: ADL App API
     url: https://adlapp.ongarde.net/api/article_categories/
+  - name: QR Code App
+    url: https://qrapp.ongarde.net/api/articles/1/en
     
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
