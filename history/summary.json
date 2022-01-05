@@ -60,7 +60,7 @@
     "timeDay": 510,
     "timeWeek": 471,
     "timeMonth": 963,
-    "timeYear": 901,
+    "timeYear": 902,
     "dailyMinutesDown": {
       "2021-03-06": 25,
       "2021-03-01": 20,
@@ -85,8 +85,8 @@
     "time": 742,
     "timeDay": 683,
     "timeWeek": 886,
-    "timeMonth": 713,
-    "timeYear": 729,
+    "timeMonth": 722,
+    "timeYear": 728,
     "dailyMinutesDown": {
       "2021-03-10": 234,
       "2021-01-24": 55
@@ -174,7 +174,7 @@
     "timeDay": 822,
     "timeWeek": 956,
     "timeMonth": 749,
-    "timeYear": 738,
+    "timeYear": 739,
     "dailyMinutesDown": {
       "2021-03-10": 233,
       "2021-03-05": 1034,
@@ -211,7 +211,7 @@
     "timeDay": 481,
     "timeWeek": 4207,
     "timeMonth": 3481,
-    "timeYear": 1426,
+    "timeYear": 1428,
     "dailyMinutesDown": {
       "2021-03-10": 233,
       "2021-02-05": 1034,
@@ -229,7 +229,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "82.99%",
+    "uptimeYear": "83.00%",
     "time": 389,
     "timeDay": 344,
     "timeWeek": 389,
@@ -316,7 +316,7 @@
     "timeDay": 743,
     "timeWeek": 723,
     "timeMonth": 701,
-    "timeYear": 886,
+    "timeYear": 887,
     "dailyMinutesDown": {
       "2021-03-09": 234,
       "2021-03-08": 634,
@@ -342,7 +342,7 @@
     "timeDay": 2015,
     "timeWeek": 2068,
     "timeMonth": 2518,
-    "timeYear": 1588,
+    "timeYear": 1591,
     "dailyMinutesDown": {
       "2021-03-10": 223,
       "2021-02-24": 43,
@@ -368,8 +368,8 @@
     "time": 655,
     "timeDay": 482,
     "timeWeek": 740,
-    "timeMonth": 1036,
-    "timeYear": 665,
+    "timeMonth": 1046,
+    "timeYear": 666,
     "dailyMinutesDown": {
       "2021-03-10": 222,
       "2021-02-24": 43,
@@ -395,7 +395,7 @@
     "time": 890,
     "timeDay": 2684,
     "timeWeek": 1416,
-    "timeMonth": 1164,
+    "timeMonth": 1031,
     "timeYear": 890,
     "dailyMinutesDown": {
       "2021-03-10": 222
@@ -415,7 +415,7 @@
     "time": 313,
     "timeDay": 346,
     "timeWeek": 270,
-    "timeMonth": 270,
+    "timeMonth": 273,
     "timeYear": 313,
     "dailyMinutesDown": {
       "2021-03-10": 221
@@ -435,7 +435,7 @@
     "time": 313,
     "timeDay": 260,
     "timeWeek": 276,
-    "timeMonth": 265,
+    "timeMonth": 262,
     "timeYear": 313,
     "dailyMinutesDown": {}
   },
@@ -462,15 +462,15 @@
     "url": "https://adlapp.ongarde.net/api/article_categories/",
     "icon": "https://favicons.githubusercontent.com/adlapp.ongarde.net",
     "slug": "adl-app-api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 345,
-    "timeDay": 608,
-    "timeWeek": 365,
+    "timeDay": 591,
+    "timeWeek": 364,
     "timeMonth": 321,
     "timeYear": 345,
     "dailyMinutesDown": {}
