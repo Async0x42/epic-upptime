@@ -355,7 +355,7 @@
     "url": "https://snipe.ongarde.net",
     "icon": "https://favicons.githubusercontent.com/snipe.ongarde.net",
     "slug": "snipe-it",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -466,7 +466,7 @@
     "uptimeYear": "100.00%",
     "time": 347,
     "timeDay": 374,
-    "timeWeek": 400,
+    "timeWeek": 401,
     "timeMonth": 334,
     "timeYear": 347,
     "dailyMinutesDown": {}
