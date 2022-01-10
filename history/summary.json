@@ -40,7 +40,7 @@
     "timeDay": 235,
     "timeWeek": 310,
     "timeMonth": 317,
-    "timeYear": 358,
+    "timeYear": 359,
     "dailyMinutesDown": {
       "2021-02-20": 120
     }
@@ -60,7 +60,7 @@
     "timeDay": 312,
     "timeWeek": 415,
     "timeMonth": 952,
-    "timeYear": 900,
+    "timeYear": 901,
     "dailyMinutesDown": {
       "2021-03-06": 25,
       "2021-03-01": 20,
@@ -86,7 +86,7 @@
     "timeDay": 474,
     "timeWeek": 746,
     "timeMonth": 767,
-    "timeYear": 729,
+    "timeYear": 730,
     "dailyMinutesDown": {
       "2021-03-10": 234,
       "2021-01-24": 55
@@ -174,7 +174,7 @@
     "timeDay": 2579,
     "timeWeek": 1422,
     "timeMonth": 934,
-    "timeYear": 756,
+    "timeYear": 754,
     "dailyMinutesDown": {
       "2021-03-10": 233,
       "2021-03-05": 1034,
@@ -211,7 +211,7 @@
     "timeDay": 230,
     "timeWeek": 510,
     "timeMonth": 3595,
-    "timeYear": 1427,
+    "timeYear": 1430,
     "dailyMinutesDown": {
       "2021-03-10": 233,
       "2021-02-05": 1034,
@@ -311,7 +311,7 @@
     "timeDay": 553,
     "timeWeek": 624,
     "timeMonth": 692,
-    "timeYear": 887,
+    "timeYear": 888,
     "dailyMinutesDown": {
       "2021-03-09": 234,
       "2021-03-08": 634,
@@ -337,7 +337,7 @@
     "timeDay": 2363,
     "timeWeek": 2411,
     "timeMonth": 2631,
-    "timeYear": 1613,
+    "timeYear": 1616,
     "dailyMinutesDown": {
       "2021-03-10": 223,
       "2021-02-24": 43,
@@ -364,7 +364,7 @@
     "timeDay": 473,
     "timeWeek": 535,
     "timeMonth": 920,
-    "timeYear": 661,
+    "timeYear": 662,
     "dailyMinutesDown": {
       "2021-03-10": 222,
       "2021-02-24": 43,
@@ -457,7 +457,7 @@
     "url": "https://adlapp.ongarde.net/api/article_categories/",
     "icon": "https://favicons.githubusercontent.com/adlapp.ongarde.net",
     "slug": "adl-app-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -475,14 +475,14 @@
     "url": "https://qrapp.ongarde.net/api/articles/1/en",
     "icon": "https://favicons.githubusercontent.com/qrapp.ongarde.net",
     "slug": "qr-code-app",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 356,
-    "timeDay": 312,
+    "timeDay": 314,
     "timeWeek": 356,
     "timeMonth": 356,
     "timeYear": 356,
