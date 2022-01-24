@@ -447,7 +447,7 @@
     "url": "https://qrapp.ongarde.net/api/articles/1/en",
     "icon": "https://favicons.githubusercontent.com/qrapp.ongarde.net",
     "slug": "qr-code-app",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -455,7 +455,7 @@
     "uptimeYear": "100.00%",
     "time": 388,
     "timeDay": 218,
-    "timeWeek": 317,
+    "timeWeek": 316,
     "timeMonth": 388,
     "timeYear": 388,
     "dailyMinutesDown": {}
