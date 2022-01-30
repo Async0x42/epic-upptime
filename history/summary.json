@@ -55,7 +55,7 @@
     "timeDay": 319,
     "timeWeek": 377,
     "timeMonth": 424,
-    "timeYear": 898,
+    "timeYear": 899,
     "dailyMinutesDown": {
       "2021-03-06": 25,
       "2021-03-01": 20,
@@ -79,7 +79,7 @@
     "timeDay": 484,
     "timeWeek": 511,
     "timeMonth": 743,
-    "timeYear": 731,
+    "timeYear": 732,
     "dailyMinutesDown": {
       "2021-03-10": 234
     }
@@ -164,7 +164,7 @@
     "timeDay": 628,
     "timeWeek": 1049,
     "timeMonth": 1400,
-    "timeYear": 799,
+    "timeYear": 801,
     "dailyMinutesDown": {
       "2021-03-10": 233,
       "2021-03-05": 1034,
@@ -200,7 +200,7 @@
     "timeDay": 258,
     "timeWeek": 1828,
     "timeMonth": 3075,
-    "timeYear": 1589,
+    "timeYear": 1591,
     "dailyMinutesDown": {
       "2021-03-10": 233,
       "2021-02-05": 1034,
@@ -212,17 +212,17 @@
     "url": "https://equella.ongarde.net",
     "icon": "https://favicons.githubusercontent.com/equella.ongarde.net",
     "slug": "equella",
-    "status": "up",
-    "uptime": "78.08%",
+    "status": "down",
+    "uptime": "78.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "89.84%",
+    "uptimeYear": "89.85%",
     "time": 389,
-    "timeDay": 398,
-    "timeWeek": 278,
-    "timeMonth": 395,
-    "timeYear": 406,
+    "timeDay": 415,
+    "timeWeek": 297,
+    "timeMonth": 396,
+    "timeYear": 407,
     "dailyMinutesDown": {
       "2021-03-10": 232,
       "2021-03-08": 1257,
@@ -304,7 +304,7 @@
     "timeDay": 1907,
     "timeWeek": 1972,
     "timeMonth": 2880,
-    "timeYear": 1748,
+    "timeYear": 1751,
     "dailyMinutesDown": {
       "2021-03-10": 223,
       "2021-02-24": 43,
@@ -330,7 +330,7 @@
     "timeDay": 527,
     "timeWeek": 497,
     "timeMonth": 668,
-    "timeYear": 675,
+    "timeYear": 676,
     "dailyMinutesDown": {
       "2021-03-10": 222,
       "2021-02-24": 43,
