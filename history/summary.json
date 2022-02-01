@@ -12,7 +12,7 @@
     "uptimeYear": "99.95%",
     "time": 496,
     "timeDay": 318,
-    "timeWeek": 348,
+    "timeWeek": 316,
     "timeMonth": 411,
     "timeYear": 514,
     "dailyMinutesDown": {
@@ -33,7 +33,7 @@
     "uptimeYear": "99.98%",
     "time": 354,
     "timeDay": 220,
-    "timeWeek": 243,
+    "timeWeek": 209,
     "timeMonth": 272,
     "timeYear": 350,
     "dailyMinutesDown": {
@@ -53,7 +53,7 @@
     "uptimeYear": "99.96%",
     "time": 853,
     "timeDay": 329,
-    "timeWeek": 376,
+    "timeWeek": 344,
     "timeMonth": 418,
     "timeYear": 898,
     "dailyMinutesDown": {
@@ -77,7 +77,7 @@
     "uptimeYear": "99.96%",
     "time": 738,
     "timeDay": 453,
-    "timeWeek": 527,
+    "timeWeek": 498,
     "timeMonth": 712,
     "timeYear": 732,
     "dailyMinutesDown": {
@@ -97,7 +97,7 @@
     "uptimeYear": "99.90%",
     "time": 305,
     "timeDay": 191,
-    "timeWeek": 223,
+    "timeWeek": 180,
     "timeMonth": 253,
     "timeYear": 303,
     "dailyMinutesDown": {
@@ -121,7 +121,7 @@
     "uptimeYear": "100.00%",
     "time": 293,
     "timeDay": 179,
-    "timeWeek": 214,
+    "timeWeek": 185,
     "timeMonth": 268,
     "timeYear": 293,
     "dailyMinutesDown": {}
@@ -139,7 +139,7 @@
     "uptimeYear": "99.93%",
     "time": 419,
     "timeDay": 197,
-    "timeWeek": 222,
+    "timeWeek": 188,
     "timeMonth": 300,
     "timeYear": 390,
     "dailyMinutesDown": {
@@ -162,9 +162,9 @@
     "uptimeYear": "95.85%",
     "time": 776,
     "timeDay": 841,
-    "timeWeek": 884,
+    "timeWeek": 702,
     "timeMonth": 1399,
-    "timeYear": 801,
+    "timeYear": 802,
     "dailyMinutesDown": {
       "2021-03-10": 233,
       "2021-03-05": 1034,
@@ -198,9 +198,9 @@
     "uptimeYear": "99.70%",
     "time": 1455,
     "timeDay": 292,
-    "timeWeek": 1671,
+    "timeWeek": 1795,
     "timeMonth": 2488,
-    "timeYear": 1588,
+    "timeYear": 1591,
     "dailyMinutesDown": {
       "2021-03-10": 233,
       "2021-02-05": 1034,
@@ -220,7 +220,7 @@
     "uptimeYear": "90.39%",
     "time": 389,
     "timeDay": 213,
-    "timeWeek": 290,
+    "timeWeek": 267,
     "timeMonth": 384,
     "timeYear": 406,
     "dailyMinutesDown": {
@@ -275,9 +275,9 @@
     "uptimeYear": "99.77%",
     "time": 847,
     "timeDay": 713,
-    "timeWeek": 748,
+    "timeWeek": 728,
     "timeMonth": 683,
-    "timeYear": 886,
+    "timeYear": 887,
     "dailyMinutesDown": {
       "2021-03-09": 234,
       "2021-03-08": 634,
@@ -298,9 +298,9 @@
     "uptimeYear": "99.64%",
     "time": 1662,
     "timeDay": 10625,
-    "timeWeek": 3136,
+    "timeWeek": 3056,
     "timeMonth": 3254,
-    "timeYear": 1794,
+    "timeYear": 1796,
     "dailyMinutesDown": {
       "2021-03-10": 223,
       "2021-02-24": 43,
@@ -326,7 +326,7 @@
     "timeDay": 651,
     "timeWeek": 455,
     "timeMonth": 665,
-    "timeYear": 674,
+    "timeYear": 675,
     "dailyMinutesDown": {
       "2021-03-10": 222,
       "2021-02-24": 43,
@@ -341,7 +341,7 @@
     "url": "https://outcan.ongarde.net",
     "icon": "https://favicons.githubusercontent.com/outcan.ongarde.net",
     "slug": "fmost-outcan",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -349,7 +349,7 @@
     "uptimeYear": "99.95%",
     "time": 1054,
     "timeDay": 808,
-    "timeWeek": 1330,
+    "timeWeek": 1209,
     "timeMonth": 1525,
     "timeYear": 1054,
     "dailyMinutesDown": {
@@ -369,7 +369,7 @@
     "uptimeYear": "99.95%",
     "time": 308,
     "timeDay": 186,
-    "timeWeek": 200,
+    "timeWeek": 175,
     "timeMonth": 244,
     "timeYear": 308,
     "dailyMinutesDown": {
@@ -389,7 +389,7 @@
     "uptimeYear": "100.00%",
     "time": 306,
     "timeDay": 319,
-    "timeWeek": 258,
+    "timeWeek": 250,
     "timeMonth": 263,
     "timeYear": 306,
     "dailyMinutesDown": {}
@@ -407,7 +407,7 @@
     "uptimeYear": "100.00%",
     "time": 409,
     "timeDay": 202,
-    "timeWeek": 249,
+    "timeWeek": 218,
     "timeMonth": 327,
     "timeYear": 409,
     "dailyMinutesDown": {}
@@ -425,7 +425,7 @@
     "uptimeYear": "100.00%",
     "time": 367,
     "timeDay": 334,
-    "timeWeek": 411,
+    "timeWeek": 412,
     "timeMonth": 423,
     "timeYear": 367,
     "dailyMinutesDown": {}
