@@ -211,7 +211,7 @@
     "icon": "https://favicons.githubusercontent.com/equella.ongarde.net",
     "slug": "equella",
     "status": "up",
-    "uptime": "78.39%",
+    "uptime": "78.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -252,8 +252,7 @@
       "2021-02-10": 1440,
       "2021-02-09": 1440,
       "2021-02-08": 1440,
-      "2021-02-07": 1440,
-      "2021-02-06": 1440
+      "2021-02-07": 1440
     }
   },
   {
@@ -405,7 +404,7 @@
     "url": "https://adlapp.ongarde.net/api/article_categories/",
     "icon": "https://favicons.githubusercontent.com/adlapp.ongarde.net",
     "slug": "adl-app-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -423,15 +422,15 @@
     "url": "https://qrapp.ongarde.net/api/articles/1/en",
     "icon": "https://favicons.githubusercontent.com/qrapp.ongarde.net",
     "slug": "qr-code-app",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 392,
-    "timeDay": 250,
-    "timeWeek": 286,
+    "timeDay": 271,
+    "timeWeek": 287,
     "timeMonth": 390,
     "timeYear": 392,
     "dailyMinutesDown": {}
