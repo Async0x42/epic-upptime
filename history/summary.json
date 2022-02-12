@@ -189,17 +189,17 @@
     "url": "https://dtc.ongarde.net",
     "icon": "https://favicons.githubusercontent.com/dtc.ongarde.net",
     "slug": "dtc-staging",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 1623,
-    "timeDay": 5258,
-    "timeWeek": 5481,
-    "timeMonth": 4044,
-    "timeYear": 1811,
+    "time": 1621,
+    "timeDay": 4044,
+    "timeWeek": 5492,
+    "timeMonth": 3979,
+    "timeYear": 1808,
     "dailyMinutesDown": {
       "2021-03-10": 233
     }
@@ -361,7 +361,7 @@
     "url": "https://keycloak.ongarde.net",
     "icon": "https://favicons.githubusercontent.com/keycloak.ongarde.net",
     "slug": "keycloak",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -406,7 +406,7 @@
     "time": 364,
     "timeDay": 339,
     "timeWeek": 394,
-    "timeMonth": 405,
+    "timeMonth": 406,
     "timeYear": 364,
     "dailyMinutesDown": {}
   },
@@ -424,7 +424,7 @@
     "time": 416,
     "timeDay": 275,
     "timeWeek": 619,
-    "timeMonth": 435,
+    "timeMonth": 436,
     "timeYear": 416,
     "dailyMinutesDown": {}
   }
