@@ -402,17 +402,17 @@
     "url": "https://qrapp.ongarde.net/api/articles/1/en",
     "icon": "https://favicons.githubusercontent.com/qrapp.ongarde.net",
     "slug": "qr-code-app",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 401,
-    "timeDay": 297,
-    "timeWeek": 271,
-    "timeMonth": 391,
-    "timeYear": 401,
+    "time": 400,
+    "timeDay": 283,
+    "timeWeek": 270,
+    "timeMonth": 390,
+    "timeYear": 400,
     "dailyMinutesDown": {}
   }
 ]
