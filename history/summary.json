@@ -167,8 +167,7 @@
       "2021-02-25": 1440,
       "2021-02-24": 1440,
       "2021-02-23": 1440,
-      "2021-02-22": 1440,
-      "2021-02-21": 1440
+      "2021-02-22": 1440
     }
   },
   {
@@ -223,8 +222,7 @@
       "2021-02-25": 1440,
       "2021-02-24": 1440,
       "2021-02-23": 1440,
-      "2021-02-22": 1440,
-      "2021-02-21": 1440
+      "2021-02-22": 1440
     }
   },
   {
@@ -335,7 +333,7 @@
     "url": "https://keycloak.ongarde.net",
     "icon": "https://favicons.githubusercontent.com/keycloak.ongarde.net",
     "slug": "keycloak",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -371,14 +369,14 @@
     "url": "https://adlapp.ongarde.net/api/article_categories/",
     "icon": "https://favicons.githubusercontent.com/adlapp.ongarde.net",
     "slug": "adl-app-api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 364,
-    "timeDay": 702,
+    "timeDay": 688,
     "timeWeek": 377,
     "timeMonth": 382,
     "timeYear": 364,
