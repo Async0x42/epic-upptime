@@ -52,7 +52,7 @@
     "timeDay": 643,
     "timeWeek": 2237,
     "timeMonth": 1697,
-    "timeYear": 983,
+    "timeYear": 984,
     "dailyMinutesDown": {
       "2021-03-06": 25,
       "2021-03-01": 20
@@ -73,7 +73,7 @@
     "timeDay": 767,
     "timeWeek": 694,
     "timeMonth": 907,
-    "timeYear": 757,
+    "timeYear": 755,
     "dailyMinutesDown": {
       "2021-03-10": 234
     }
@@ -132,7 +132,7 @@
     "timeDay": 445,
     "timeWeek": 258,
     "timeMonth": 265,
-    "timeYear": 355,
+    "timeYear": 348,
     "dailyMinutesDown": {
       "2021-03-10": 233,
       "2021-02-24": 43
@@ -153,7 +153,7 @@
     "timeDay": 912,
     "timeWeek": 732,
     "timeMonth": 878,
-    "timeYear": 824,
+    "timeYear": 825,
     "dailyMinutesDown": {
       "2021-03-10": 233,
       "2021-03-05": 1034,
@@ -185,7 +185,7 @@
     "timeDay": 516,
     "timeWeek": 3426,
     "timeMonth": 4273,
-    "timeYear": 1923,
+    "timeYear": 1919,
     "dailyMinutesDown": {
       "2021-03-10": 233
     }
@@ -200,7 +200,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.87%",
+    "uptimeYear": "95.88%",
     "time": 386,
     "timeDay": 491,
     "timeWeek": 313,
@@ -240,7 +240,7 @@
     "timeDay": 1331,
     "timeWeek": 869,
     "timeMonth": 764,
-    "timeYear": 887,
+    "timeYear": 888,
     "dailyMinutesDown": {
       "2021-03-09": 234,
       "2021-03-08": 634
@@ -261,7 +261,7 @@
     "timeDay": 3979,
     "timeWeek": 4889,
     "timeMonth": 3073,
-    "timeYear": 1929,
+    "timeYear": 1924,
     "dailyMinutesDown": {
       "2021-03-10": 223,
       "2021-02-24": 43
@@ -369,7 +369,7 @@
     "url": "https://adlapp.ongarde.net/api/article_categories/",
     "icon": "https://favicons.githubusercontent.com/adlapp.ongarde.net",
     "slug": "adl-app-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -378,7 +378,7 @@
     "time": 363,
     "timeDay": 291,
     "timeWeek": 385,
-    "timeMonth": 381,
+    "timeMonth": 382,
     "timeYear": 363,
     "dailyMinutesDown": {}
   },
