@@ -13,7 +13,7 @@
     "time": 493,
     "timeDay": 510,
     "timeWeek": 406,
-    "timeMonth": 414,
+    "timeMonth": 418,
     "timeYear": 510,
     "dailyMinutesDown": {
       "2021-03-10": 235
@@ -33,7 +33,7 @@
     "time": 352,
     "timeDay": 378,
     "timeWeek": 267,
-    "timeMonth": 290,
+    "timeMonth": 292,
     "timeYear": 349,
     "dailyMinutesDown": {}
   },
@@ -51,7 +51,7 @@
     "time": 910,
     "timeDay": 452,
     "timeWeek": 2239,
-    "timeMonth": 1702,
+    "timeMonth": 1724,
     "timeYear": 983,
     "dailyMinutesDown": {
       "2021-03-06": 25,
@@ -72,7 +72,7 @@
     "time": 752,
     "timeDay": 699,
     "timeWeek": 704,
-    "timeMonth": 863,
+    "timeMonth": 877,
     "timeYear": 755,
     "dailyMinutesDown": {
       "2021-03-10": 234
@@ -92,7 +92,7 @@
     "time": 304,
     "timeDay": 382,
     "timeWeek": 234,
-    "timeMonth": 258,
+    "timeMonth": 259,
     "timeYear": 301,
     "dailyMinutesDown": {
       "2021-03-10": 234,
@@ -113,7 +113,7 @@
     "time": 293,
     "timeDay": 356,
     "timeWeek": 254,
-    "timeMonth": 272,
+    "timeMonth": 273,
     "timeYear": 293,
     "dailyMinutesDown": {}
   },
@@ -131,7 +131,7 @@
     "time": 413,
     "timeDay": 374,
     "timeWeek": 257,
-    "timeMonth": 267,
+    "timeMonth": 269,
     "timeYear": 347,
     "dailyMinutesDown": {
       "2021-03-10": 233,
@@ -152,7 +152,7 @@
     "time": 777,
     "timeDay": 753,
     "timeWeek": 768,
-    "timeMonth": 844,
+    "timeMonth": 855,
     "timeYear": 827,
     "dailyMinutesDown": {
       "2021-03-10": 233,
@@ -182,7 +182,7 @@
     "time": 1696,
     "timeDay": 472,
     "timeWeek": 3423,
-    "timeMonth": 3901,
+    "timeMonth": 3967,
     "timeYear": 1916,
     "dailyMinutesDown": {
       "2021-03-10": 233
@@ -202,7 +202,7 @@
     "time": 386,
     "timeDay": 469,
     "timeWeek": 329,
-    "timeMonth": 313,
+    "timeMonth": 315,
     "timeYear": 409,
     "dailyMinutesDown": {
       "2021-03-10": 232,
@@ -235,7 +235,7 @@
     "time": 846,
     "timeDay": 844,
     "timeWeek": 1001,
-    "timeMonth": 797,
+    "timeMonth": 794,
     "timeYear": 890,
     "dailyMinutesDown": {
       "2021-03-09": 234,
@@ -256,7 +256,7 @@
     "time": 1792,
     "timeDay": 5103,
     "timeWeek": 6347,
-    "timeMonth": 3518,
+    "timeMonth": 3537,
     "timeYear": 1989,
     "dailyMinutesDown": {
       "2021-03-10": 223,
@@ -277,7 +277,7 @@
     "time": 653,
     "timeDay": 779,
     "timeWeek": 764,
-    "timeMonth": 587,
+    "timeMonth": 589,
     "timeYear": 680,
     "dailyMinutesDown": {
       "2021-03-10": 222,
@@ -289,17 +289,17 @@
     "url": "https://outcan.ongarde.net",
     "icon": "https://favicons.githubusercontent.com/outcan.ongarde.net",
     "slug": "fmost-outcan",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 1046,
-    "timeDay": 1540,
-    "timeWeek": 1070,
-    "timeMonth": 1266,
-    "timeYear": 1046,
+    "time": 1045,
+    "timeDay": 1190,
+    "timeWeek": 1052,
+    "timeMonth": 1267,
+    "timeYear": 1045,
     "dailyMinutesDown": {
       "2021-03-10": 222
     }
@@ -318,7 +318,7 @@
     "time": 307,
     "timeDay": 338,
     "timeWeek": 241,
-    "timeMonth": 265,
+    "timeMonth": 267,
     "timeYear": 307,
     "dailyMinutesDown": {
       "2021-03-10": 221
@@ -338,7 +338,7 @@
     "time": 302,
     "timeDay": 219,
     "timeWeek": 240,
-    "timeMonth": 269,
+    "timeMonth": 270,
     "timeYear": 302,
     "dailyMinutesDown": {}
   },
