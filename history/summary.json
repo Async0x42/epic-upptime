@@ -14,7 +14,7 @@
     "timeDay": 279,
     "timeWeek": 506,
     "timeMonth": 465,
-    "timeYear": 510,
+    "timeYear": 511,
     "dailyMinutesDown": {
       "2021-03-10": 235
     }
@@ -34,7 +34,7 @@
     "timeDay": 207,
     "timeWeek": 362,
     "timeMonth": 329,
-    "timeYear": 348,
+    "timeYear": 347,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 906,
+    "time": 916,
     "timeDay": 344,
     "timeWeek": 484,
     "timeMonth": 1919,
-    "timeYear": 983,
+    "timeYear": 985,
     "dailyMinutesDown": {
       "2021-03-06": 25
     }
@@ -72,7 +72,7 @@
     "timeDay": 407,
     "timeWeek": 571,
     "timeMonth": 944,
-    "timeYear": 758,
+    "timeYear": 759,
     "dailyMinutesDown": {
       "2021-03-10": 234
     }
@@ -92,7 +92,7 @@
     "timeDay": 190,
     "timeWeek": 354,
     "timeMonth": 299,
-    "timeYear": 300,
+    "timeYear": 299,
     "dailyMinutesDown": {
       "2021-03-10": 234
     }
@@ -130,7 +130,7 @@
     "timeDay": 230,
     "timeWeek": 318,
     "timeMonth": 301,
-    "timeYear": 341,
+    "timeYear": 327,
     "dailyMinutesDown": {
       "2021-03-10": 233
     }
@@ -145,12 +145,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.39%",
+    "uptimeYear": "99.40%",
     "time": 778,
     "timeDay": 503,
     "timeWeek": 834,
     "timeMonth": 828,
-    "timeYear": 839,
+    "timeYear": 842,
     "dailyMinutesDown": {
       "2021-03-10": 233,
       "2021-03-05": 1034,
@@ -172,7 +172,7 @@
     "timeDay": 5980,
     "timeWeek": 5447,
     "timeMonth": 4839,
-    "timeYear": 2093,
+    "timeYear": 2100,
     "dailyMinutesDown": {
       "2021-03-10": 233
     }
@@ -217,7 +217,7 @@
     "timeDay": 570,
     "timeWeek": 749,
     "timeMonth": 815,
-    "timeYear": 897,
+    "timeYear": 899,
     "dailyMinutesDown": {
       "2021-03-09": 234,
       "2021-03-08": 634
@@ -228,17 +228,17 @@
     "url": "https://forces.ongarde.net",
     "icon": "https://favicons.githubusercontent.com/forces.ongarde.net",
     "slug": "forces-ca-staging",
-    "status": "down",
+    "status": "up",
     "uptime": "99.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 1834,
-    "timeDay": 5649,
-    "timeWeek": 3909,
-    "timeMonth": 3853,
-    "timeYear": 2068,
+    "time": 1854,
+    "timeDay": 6899,
+    "timeWeek": 4679,
+    "timeMonth": 4074,
+    "timeYear": 2097,
     "dailyMinutesDown": {
       "2021-03-10": 223
     }
@@ -258,7 +258,7 @@
     "timeDay": 446,
     "timeWeek": 661,
     "timeMonth": 663,
-    "timeYear": 682,
+    "timeYear": 683,
     "dailyMinutesDown": {
       "2021-03-10": 222
     }
@@ -278,7 +278,7 @@
     "timeDay": 669,
     "timeWeek": 857,
     "timeMonth": 957,
-    "timeYear": 1042,
+    "timeYear": 1044,
     "dailyMinutesDown": {
       "2021-03-10": 222
     }
@@ -353,7 +353,7 @@
     "time": 367,
     "timeDay": 260,
     "timeWeek": 479,
-    "timeMonth": 370,
+    "timeMonth": 371,
     "timeYear": 367,
     "dailyMinutesDown": {}
   },
