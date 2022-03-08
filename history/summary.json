@@ -198,17 +198,17 @@
     "url": "https://forces.ca",
     "icon": "https://favicons.githubusercontent.com/forces.ca",
     "slug": "forces-ca",
-    "status": "down",
+    "status": "up",
     "uptime": "99.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 880,
-    "timeDay": 5461,
-    "timeWeek": 2599,
-    "timeMonth": 1432,
-    "timeYear": 862,
+    "time": 894,
+    "timeDay": 5976,
+    "timeWeek": 3093,
+    "timeMonth": 1645,
+    "timeYear": 881,
     "dailyMinutesDown": {
       "2021-03-09": 234
     }
