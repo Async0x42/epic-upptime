@@ -166,7 +166,7 @@
     "uptimeYear": "99.96%",
     "time": 1834,
     "timeDay": 265,
-    "timeWeek": 4838,
+    "timeWeek": 4198,
     "timeMonth": 4353,
     "timeYear": 2126,
     "dailyMinutesDown": {
@@ -179,11 +179,11 @@
     "icon": "https://favicons.githubusercontent.com/equella.ongarde.net",
     "slug": "equella",
     "status": "up",
-    "uptime": "79.83%",
+    "uptime": "79.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.80%",
+    "uptimeYear": "99.85%",
     "time": 387,
     "timeDay": 1280,
     "timeWeek": 523,
@@ -208,7 +208,7 @@
     "timeDay": 552,
     "timeWeek": 671,
     "timeMonth": 803,
-    "timeYear": 867,
+    "timeYear": 868,
     "dailyMinutesDown": {
       "2021-03-09": 234
     }
@@ -225,7 +225,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 1862,
-    "timeDay": 1918,
+    "timeDay": 1867,
     "timeWeek": 4413,
     "timeMonth": 4032,
     "timeYear": 2117,
@@ -246,7 +246,7 @@
     "uptimeYear": "99.96%",
     "time": 666,
     "timeDay": 325,
-    "timeWeek": 981,
+    "timeWeek": 984,
     "timeMonth": 776,
     "timeYear": 697,
     "dailyMinutesDown": {
@@ -265,8 +265,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 1052,
-    "timeDay": 346,
-    "timeWeek": 1349,
+    "timeDay": 513,
+    "timeWeek": 1347,
     "timeMonth": 1033,
     "timeYear": 1060,
     "dailyMinutesDown": {
@@ -298,7 +298,7 @@
     "url": "https://keycloak.ongarde.net",
     "icon": "https://favicons.githubusercontent.com/keycloak.ongarde.net",
     "slug": "keycloak",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -307,7 +307,7 @@
     "time": 300,
     "timeDay": 166,
     "timeWeek": 256,
-    "timeMonth": 276,
+    "timeMonth": 278,
     "timeYear": 300,
     "dailyMinutesDown": {}
   },
@@ -342,8 +342,8 @@
     "uptimeYear": "100.00%",
     "time": 367,
     "timeDay": 178,
-    "timeWeek": 405,
-    "timeMonth": 371,
+    "timeWeek": 378,
+    "timeMonth": 372,
     "timeYear": 367,
     "dailyMinutesDown": {}
   },
@@ -360,7 +360,7 @@
     "uptimeYear": "100.00%",
     "time": 431,
     "timeDay": 408,
-    "timeWeek": 906,
+    "timeWeek": 933,
     "timeMonth": 507,
     "timeYear": 431,
     "dailyMinutesDown": {}
