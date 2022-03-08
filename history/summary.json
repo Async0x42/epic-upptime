@@ -218,17 +218,17 @@
     "url": "https://forces.ongarde.net",
     "icon": "https://favicons.githubusercontent.com/forces.ongarde.net",
     "slug": "forces-ca-staging",
-    "status": "down",
+    "status": "up",
     "uptime": "99.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 1862,
-    "timeDay": 1867,
-    "timeWeek": 4413,
-    "timeMonth": 4032,
-    "timeYear": 2117,
+    "time": 1861,
+    "timeDay": 1757,
+    "timeWeek": 4229,
+    "timeMonth": 3979,
+    "timeYear": 2116,
     "dailyMinutesDown": {
       "2021-03-10": 223
     }
