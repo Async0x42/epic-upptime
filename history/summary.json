@@ -179,7 +179,7 @@
     "icon": "https://favicons.githubusercontent.com/equella.ongarde.net",
     "slug": "equella",
     "status": "up",
-    "uptime": "79.86%",
+    "uptime": "79.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -208,7 +208,7 @@
     "timeDay": 7738,
     "timeWeek": 5485,
     "timeMonth": 3111,
-    "timeYear": 943,
+    "timeYear": 921,
     "dailyMinutesDown": {}
   },
   {
@@ -216,17 +216,17 @@
     "url": "https://forces.ongarde.net",
     "icon": "https://favicons.githubusercontent.com/forces.ongarde.net",
     "slug": "forces-ca-staging",
-    "status": "down",
+    "status": "up",
     "uptime": "99.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 1906,
-    "timeDay": 3979,
-    "timeWeek": 4248,
-    "timeMonth": 4065,
-    "timeYear": 2168,
+    "time": 1908,
+    "timeDay": 3901,
+    "timeWeek": 4199,
+    "timeMonth": 4045,
+    "timeYear": 2170,
     "dailyMinutesDown": {
       "2021-03-10": 223
     }
