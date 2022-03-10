@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 492,
-    "timeDay": 306,
-    "timeWeek": 338,
-    "timeMonth": 448,
-    "timeYear": 508,
-    "dailyMinutesDown": {
-      "2021-03-10": 235
-    }
+    "timeDay": 254,
+    "timeWeek": 334,
+    "timeMonth": 437,
+    "timeYear": 507,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Snap Survey (External)",
@@ -32,9 +30,9 @@
     "uptimeYear": "100.00%",
     "time": 350,
     "timeDay": 188,
-    "timeWeek": 215,
-    "timeMonth": 305,
-    "timeYear": 345,
+    "timeWeek": 212,
+    "timeMonth": 293,
+    "timeYear": 344,
     "dailyMinutesDown": {}
   },
   {
@@ -49,10 +47,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 916,
-    "timeDay": 277,
-    "timeWeek": 365,
-    "timeMonth": 1547,
-    "timeYear": 986,
+    "timeDay": 283,
+    "timeWeek": 358,
+    "timeMonth": 1534,
+    "timeYear": 985,
     "dailyMinutesDown": {}
   },
   {
@@ -66,14 +64,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 749,
-    "timeDay": 505,
-    "timeWeek": 646,
-    "timeMonth": 688,
+    "time": 748,
+    "timeDay": 477,
+    "timeWeek": 656,
+    "timeMonth": 676,
     "timeYear": 761,
-    "dailyMinutesDown": {
-      "2021-03-10": 234
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "CAF-ACE",
@@ -86,14 +82,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 304,
-    "timeDay": 178,
-    "timeWeek": 214,
-    "timeMonth": 286,
-    "timeYear": 298,
-    "dailyMinutesDown": {
-      "2021-03-10": 234
-    }
+    "time": 303,
+    "timeDay": 172,
+    "timeWeek": 211,
+    "timeMonth": 273,
+    "timeYear": 297,
+    "dailyMinutesDown": {}
   },
   {
     "name": "CAF-ACE (Staging)",
@@ -107,9 +101,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 294,
-    "timeDay": 208,
-    "timeWeek": 257,
-    "timeMonth": 295,
+    "timeDay": 165,
+    "timeWeek": 253,
+    "timeMonth": 286,
     "timeYear": 294,
     "dailyMinutesDown": {}
   },
@@ -125,13 +119,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 409,
-    "timeDay": 193,
-    "timeWeek": 218,
-    "timeMonth": 289,
+    "timeDay": 154,
+    "timeWeek": 207,
+    "timeMonth": 277,
     "timeYear": 321,
-    "dailyMinutesDown": {
-      "2021-03-10": 233
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "DGCB Knowledge",
@@ -144,14 +136,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 779,
-    "timeDay": 527,
-    "timeWeek": 819,
-    "timeMonth": 794,
+    "time": 778,
+    "timeDay": 304,
+    "timeWeek": 790,
+    "timeMonth": 770,
     "timeYear": 850,
-    "dailyMinutesDown": {
-      "2021-03-10": 233
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "DTC (Staging)",
@@ -164,14 +154,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 1849,
-    "timeDay": 4763,
+    "time": 1846,
+    "timeDay": 4764,
     "timeWeek": 3901,
-    "timeMonth": 4445,
+    "timeMonth": 4441,
     "timeYear": 2146,
-    "dailyMinutesDown": {
-      "2021-03-10": 233
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Equella",
@@ -184,14 +172,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 387,
-    "timeDay": 222,
-    "timeWeek": 497,
-    "timeMonth": 391,
+    "time": 386,
+    "timeDay": 211,
+    "timeWeek": 488,
+    "timeMonth": 381,
     "timeYear": 411,
-    "dailyMinutesDown": {
-      "2021-03-10": 232
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Forces.ca",
@@ -204,10 +190,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1027,
-    "timeDay": 7942,
-    "timeWeek": 5587,
-    "timeMonth": 3221,
+    "time": 1026,
+    "timeDay": 5106,
+    "timeWeek": 5581,
+    "timeMonth": 3209,
     "timeYear": 919,
     "dailyMinutesDown": {}
   },
@@ -222,14 +208,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 1908,
-    "timeDay": 1939,
-    "timeWeek": 3612,
-    "timeMonth": 4119,
-    "timeYear": 2170,
-    "dailyMinutesDown": {
-      "2021-03-10": 223
-    }
+    "time": 1907,
+    "timeDay": 2205,
+    "timeWeek": 3597,
+    "timeMonth": 4106,
+    "timeYear": 2172,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Snipe-IT",
@@ -243,13 +227,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 664,
-    "timeDay": 461,
-    "timeWeek": 968,
-    "timeMonth": 760,
+    "timeDay": 459,
+    "timeWeek": 964,
+    "timeMonth": 756,
     "timeYear": 695,
-    "dailyMinutesDown": {
-      "2021-03-10": 222
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "FMOST-Outcan",
@@ -262,14 +244,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 1049,
-    "timeDay": 201,
-    "timeWeek": 1254,
-    "timeMonth": 1016,
+    "time": 1048,
+    "timeDay": 185,
+    "timeWeek": 1274,
+    "timeMonth": 1010,
     "timeYear": 1058,
-    "dailyMinutesDown": {
-      "2021-03-10": 222
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Learning Locker",
@@ -282,14 +262,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 306,
-    "timeDay": 169,
-    "timeWeek": 233,
-    "timeMonth": 272,
+    "time": 305,
+    "timeDay": 193,
+    "timeWeek": 234,
+    "timeMonth": 263,
     "timeYear": 306,
-    "dailyMinutesDown": {
-      "2021-03-10": 221
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Keycloak",
@@ -303,9 +281,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 300,
-    "timeDay": 216,
-    "timeWeek": 237,
-    "timeMonth": 273,
+    "timeDay": 214,
+    "timeWeek": 236,
+    "timeMonth": 270,
     "timeYear": 300,
     "dailyMinutesDown": {}
   },
@@ -320,11 +298,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 396,
-    "timeDay": 197,
-    "timeWeek": 216,
-    "timeMonth": 278,
-    "timeYear": 396,
+    "time": 395,
+    "timeDay": 155,
+    "timeWeek": 213,
+    "timeMonth": 268,
+    "timeYear": 395,
     "dailyMinutesDown": {}
   },
   {
@@ -339,8 +317,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 367,
-    "timeDay": 247,
-    "timeWeek": 379,
+    "timeDay": 244,
+    "timeWeek": 381,
     "timeMonth": 380,
     "timeYear": 367,
     "dailyMinutesDown": {}
@@ -357,9 +335,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 433,
-    "timeDay": 207,
-    "timeWeek": 733,
-    "timeMonth": 487,
+    "timeDay": 204,
+    "timeWeek": 732,
+    "timeMonth": 486,
     "timeYear": 433,
     "dailyMinutesDown": {}
   }
