@@ -328,17 +328,17 @@
     "url": "https://qrapp.ongarde.net/api/articles/1/en",
     "icon": "https://favicons.githubusercontent.com/qrapp.ongarde.net",
     "slug": "qr-code-app",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 433,
-    "timeDay": 160,
-    "timeWeek": 777,
+    "time": 432,
+    "timeDay": 219,
+    "timeWeek": 764,
     "timeMonth": 458,
-    "timeYear": 433,
+    "timeYear": 432,
     "dailyMinutesDown": {}
   }
 ]
