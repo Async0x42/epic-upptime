@@ -220,7 +220,7 @@
     "url": "https://snipe.ongarde.net",
     "icon": "https://favicons.githubusercontent.com/snipe.ongarde.net",
     "slug": "snipe-it",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -228,8 +228,8 @@
     "uptimeYear": "100.00%",
     "time": 665,
     "timeDay": 1034,
-    "timeWeek": 949,
-    "timeMonth": 763,
+    "timeWeek": 925,
+    "timeMonth": 767,
     "timeYear": 698,
     "dailyMinutesDown": {}
   },
@@ -246,7 +246,7 @@
     "uptimeYear": "100.00%",
     "time": 1046,
     "timeDay": 888,
-    "timeWeek": 1450,
+    "timeWeek": 1458,
     "timeMonth": 1008,
     "timeYear": 1060,
     "dailyMinutesDown": {}
@@ -318,8 +318,8 @@
     "uptimeYear": "100.00%",
     "time": 367,
     "timeDay": 375,
-    "timeWeek": 322,
-    "timeMonth": 383,
+    "timeWeek": 324,
+    "timeMonth": 384,
     "timeYear": 367,
     "dailyMinutesDown": {}
   },
@@ -328,7 +328,7 @@
     "url": "https://qrapp.ongarde.net/api/articles/1/en",
     "icon": "https://favicons.githubusercontent.com/qrapp.ongarde.net",
     "slug": "qr-code-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -337,7 +337,7 @@
     "time": 431,
     "timeDay": 274,
     "timeWeek": 633,
-    "timeMonth": 462,
+    "timeMonth": 464,
     "timeYear": 431,
     "dailyMinutesDown": {}
   }
