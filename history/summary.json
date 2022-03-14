@@ -167,7 +167,7 @@
     "icon": "https://favicons.githubusercontent.com/equella.ongarde.net",
     "slug": "equella",
     "status": "up",
-    "uptime": "80.09%",
+    "uptime": "80.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -210,7 +210,7 @@
     "uptimeYear": "100.00%",
     "time": 1909,
     "timeDay": 2104,
-    "timeWeek": 3175,
+    "timeWeek": 3235,
     "timeMonth": 4142,
     "timeYear": 2192,
     "dailyMinutesDown": {}
@@ -229,7 +229,7 @@
     "time": 666,
     "timeDay": 354,
     "timeWeek": 644,
-    "timeMonth": 778,
+    "timeMonth": 780,
     "timeYear": 699,
     "dailyMinutesDown": {}
   },
@@ -246,8 +246,8 @@
     "uptimeYear": "100.00%",
     "time": 1044,
     "timeDay": 469,
-    "timeWeek": 479,
-    "timeMonth": 1008,
+    "timeWeek": 502,
+    "timeMonth": 1021,
     "timeYear": 1060,
     "dailyMinutesDown": {}
   },
@@ -274,7 +274,7 @@
     "url": "https://keycloak.ongarde.net",
     "icon": "https://favicons.githubusercontent.com/keycloak.ongarde.net",
     "slug": "keycloak",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -319,7 +319,7 @@
     "time": 366,
     "timeDay": 224,
     "timeWeek": 322,
-    "timeMonth": 384,
+    "timeMonth": 385,
     "timeYear": 366,
     "dailyMinutesDown": {}
   },
@@ -337,7 +337,7 @@
     "time": 429,
     "timeDay": 216,
     "timeWeek": 371,
-    "timeMonth": 468,
+    "timeMonth": 470,
     "timeYear": 429,
     "dailyMinutesDown": {}
   }
