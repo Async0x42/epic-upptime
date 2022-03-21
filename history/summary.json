@@ -148,17 +148,17 @@
     "url": "https://dtc.ongarde.net",
     "icon": "https://favicons.githubusercontent.com/dtc.ongarde.net",
     "slug": "dtc-staging",
-    "status": "down",
+    "status": "up",
     "uptime": "99.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1946,
-    "timeDay": 427,
-    "timeWeek": 3918,
-    "timeMonth": 4278,
-    "timeYear": 2300,
+    "time": 1964,
+    "timeDay": 4425,
+    "timeWeek": 4418,
+    "timeMonth": 4416,
+    "timeYear": 2321,
     "dailyMinutesDown": {}
   },
   {
@@ -337,7 +337,7 @@
     "time": 423,
     "timeDay": 309,
     "timeWeek": 286,
-    "timeMonth": 512,
+    "timeMonth": 513,
     "timeYear": 423,
     "dailyMinutesDown": {}
   }
