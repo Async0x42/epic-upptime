@@ -246,7 +246,7 @@
     "uptimeYear": "100.00%",
     "time": 1050,
     "timeDay": 335,
-    "timeWeek": 1500,
+    "timeWeek": 1544,
     "timeMonth": 1097,
     "timeYear": 1073,
     "dailyMinutesDown": {}
@@ -310,7 +310,7 @@
     "url": "https://adlapp.ongarde.net/api/article_categories/",
     "icon": "https://favicons.githubusercontent.com/adlapp.ongarde.net",
     "slug": "adl-app-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -318,7 +318,7 @@
     "uptimeYear": "100.00%",
     "time": 363,
     "timeDay": 207,
-    "timeWeek": 259,
+    "timeWeek": 260,
     "timeMonth": 369,
     "timeYear": 363,
     "dailyMinutesDown": {}
@@ -337,7 +337,7 @@
     "time": 421,
     "timeDay": 176,
     "timeWeek": 267,
-    "timeMonth": 500,
+    "timeMonth": 504,
     "timeYear": 421,
     "dailyMinutesDown": {}
   }
