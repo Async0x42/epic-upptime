@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 919,
     "timeDay": 457,
-    "timeWeek": 436,
+    "timeWeek": 424,
     "timeMonth": 479,
     "timeYear": 929,
     "dailyMinutesDown": {}
@@ -274,7 +274,7 @@
     "url": "https://keycloak.ongarde.net",
     "icon": "https://favicons.githubusercontent.com/keycloak.ongarde.net",
     "slug": "keycloak",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -318,7 +318,7 @@
     "uptimeYear": "100.00%",
     "time": 363,
     "timeDay": 286,
-    "timeWeek": 258,
+    "timeWeek": 257,
     "timeMonth": 355,
     "timeYear": 363,
     "dailyMinutesDown": {}
@@ -337,7 +337,7 @@
     "time": 418,
     "timeDay": 281,
     "timeWeek": 256,
-    "timeMonth": 540,
+    "timeMonth": 543,
     "timeYear": 418,
     "dailyMinutesDown": {}
   }
