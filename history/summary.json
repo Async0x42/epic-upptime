@@ -131,7 +131,7 @@
     "icon": "https://favicons.githubusercontent.com/dgcb-knowledge.ongarde.net",
     "slug": "dgcb-knowledge",
     "status": "up",
-    "uptime": "96.81%",
+    "uptime": "96.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -167,7 +167,7 @@
     "icon": "https://favicons.githubusercontent.com/equella.ongarde.net",
     "slug": "equella",
     "status": "up",
-    "uptime": "80.72%",
+    "uptime": "80.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -194,7 +194,7 @@
     "timeDay": 572,
     "timeWeek": 850,
     "timeMonth": 3075,
-    "timeYear": 928,
+    "timeYear": 930,
     "dailyMinutesDown": {}
   },
   {
@@ -229,7 +229,7 @@
     "time": 669,
     "timeDay": 331,
     "timeWeek": 465,
-    "timeMonth": 787,
+    "timeMonth": 795,
     "timeYear": 703,
     "dailyMinutesDown": {}
   },
@@ -318,8 +318,8 @@
     "uptimeYear": "100.00%",
     "time": 362,
     "timeDay": 246,
-    "timeWeek": 240,
-    "timeMonth": 347,
+    "timeWeek": 242,
+    "timeMonth": 348,
     "timeYear": 362,
     "dailyMinutesDown": {}
   },
@@ -328,7 +328,7 @@
     "url": "https://qrapp.ongarde.net/api/articles/1/en",
     "icon": "https://favicons.githubusercontent.com/qrapp.ongarde.net",
     "slug": "qr-code-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -337,7 +337,7 @@
     "time": 414,
     "timeDay": 191,
     "timeWeek": 225,
-    "timeMonth": 489,
+    "timeMonth": 493,
     "timeYear": 414,
     "dailyMinutesDown": {}
   }
