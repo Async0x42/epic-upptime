@@ -140,7 +140,7 @@
     "timeDay": 0,
     "timeWeek": 607,
     "timeMonth": 1241,
-    "timeYear": 914,
+    "timeYear": 907,
     "dailyMinutesDown": {}
   },
   {
@@ -167,7 +167,7 @@
     "icon": "https://favicons.githubusercontent.com/equella.ongarde.net",
     "slug": "equella",
     "status": "up",
-    "uptime": "81.00%",
+    "uptime": "81.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -212,7 +212,7 @@
     "timeDay": 18833,
     "timeWeek": 3626,
     "timeMonth": 3386,
-    "timeYear": 2362,
+    "timeYear": 2361,
     "dailyMinutesDown": {}
   },
   {
@@ -229,8 +229,8 @@
     "time": 668,
     "timeDay": 369,
     "timeWeek": 585,
-    "timeMonth": 816,
-    "timeYear": 702,
+    "timeMonth": 761,
+    "timeYear": 703,
     "dailyMinutesDown": {}
   },
   {
@@ -238,7 +238,7 @@
     "url": "https://outcan.ongarde.net",
     "icon": "https://favicons.githubusercontent.com/outcan.ongarde.net",
     "slug": "fmost-outcan",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -248,7 +248,7 @@
     "timeDay": 0,
     "timeWeek": 628,
     "timeMonth": 1514,
-    "timeYear": 1103,
+    "timeYear": 1101,
     "dailyMinutesDown": {}
   },
   {
@@ -336,8 +336,8 @@
     "uptimeYear": "100.00%",
     "time": 419,
     "timeDay": 352,
-    "timeWeek": 548,
-    "timeMonth": 399,
+    "timeWeek": 555,
+    "timeMonth": 400,
     "timeYear": 419,
     "dailyMinutesDown": {}
   }
