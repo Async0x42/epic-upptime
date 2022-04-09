@@ -40,17 +40,17 @@
     "url": "https://lp-pa.forces.gc.ca/portal/",
     "icon": "https://favicons.githubusercontent.com/lp-pa.forces.gc.ca",
     "slug": "learning-portal",
-    "status": "down",
+    "status": "up",
     "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 917,
-    "timeDay": 277,
-    "timeWeek": 468,
-    "timeMonth": 467,
-    "timeYear": 932,
+    "timeDay": 273,
+    "timeWeek": 424,
+    "timeMonth": 462,
+    "timeYear": 931,
     "dailyMinutesDown": {}
   },
   {
@@ -337,7 +337,7 @@
     "time": 420,
     "timeDay": 181,
     "timeWeek": 391,
-    "timeMonth": 336,
+    "timeMonth": 337,
     "timeYear": 420,
     "dailyMinutesDown": {}
   }
