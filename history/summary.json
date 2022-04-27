@@ -220,7 +220,7 @@
     "url": "https://snipe.ongarde.net",
     "icon": "https://favicons.githubusercontent.com/snipe.ongarde.net",
     "slug": "snipe-it",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -228,7 +228,7 @@
     "uptimeYear": "100.00%",
     "time": 692,
     "timeDay": 648,
-    "timeWeek": 533,
+    "timeWeek": 528,
     "timeMonth": 798,
     "timeYear": 732,
     "dailyMinutesDown": {}
@@ -246,7 +246,7 @@
     "uptimeYear": "100.00%",
     "time": 1024,
     "timeDay": 2021,
-    "timeWeek": 846,
+    "timeWeek": 887,
     "timeMonth": 845,
     "timeYear": 1062,
     "dailyMinutesDown": {}
@@ -319,7 +319,7 @@
     "time": 364,
     "timeDay": 0,
     "timeWeek": 308,
-    "timeMonth": 380,
+    "timeMonth": 381,
     "timeYear": 364,
     "dailyMinutesDown": {}
   },
