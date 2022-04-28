@@ -167,7 +167,7 @@
     "icon": "https://favicons.githubusercontent.com/equella.ongarde.net",
     "slug": "equella",
     "status": "down",
-    "uptime": "81.86%",
+    "uptime": "81.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -220,7 +220,7 @@
     "url": "https://snipe.ongarde.net",
     "icon": "https://favicons.githubusercontent.com/snipe.ongarde.net",
     "slug": "snipe-it",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -230,7 +230,7 @@
     "timeDay": 556,
     "timeWeek": 523,
     "timeMonth": 791,
-    "timeYear": 731,
+    "timeYear": 732,
     "dailyMinutesDown": {}
   },
   {
@@ -318,8 +318,8 @@
     "uptimeYear": "100.00%",
     "time": 364,
     "timeDay": 0,
-    "timeWeek": 281,
-    "timeMonth": 382,
+    "timeWeek": 303,
+    "timeMonth": 383,
     "timeYear": 364,
     "dailyMinutesDown": {}
   },
@@ -336,7 +336,7 @@
     "uptimeYear": "100.00%",
     "time": 444,
     "timeDay": 397,
-    "timeWeek": 249,
+    "timeWeek": 261,
     "timeMonth": 556,
     "timeYear": 444,
     "dailyMinutesDown": {}
