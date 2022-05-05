@@ -14,7 +14,7 @@
     "timeDay": 258,
     "timeWeek": 454,
     "timeMonth": 412,
-    "timeYear": 490,
+    "timeYear": 489,
     "dailyMinutesDown": {}
   },
   {
@@ -50,7 +50,7 @@
     "timeDay": 258,
     "timeWeek": 287,
     "timeMonth": 345,
-    "timeYear": 930,
+    "timeYear": 931,
     "dailyMinutesDown": {}
   },
   {
@@ -158,7 +158,7 @@
     "timeDay": 5212,
     "timeWeek": 4896,
     "timeMonth": 4880,
-    "timeYear": 2807,
+    "timeYear": 2811,
     "dailyMinutesDown": {}
   },
   {
@@ -194,7 +194,7 @@
     "timeDay": 576,
     "timeWeek": 655,
     "timeMonth": 696,
-    "timeYear": 1094,
+    "timeYear": 1096,
     "dailyMinutesDown": {}
   },
   {
@@ -208,11 +208,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2199,
+    "time": 2402,
     "timeDay": 15425,
     "timeWeek": 7073,
     "timeMonth": 5409,
-    "timeYear": 2678,
+    "timeYear": 2681,
     "dailyMinutesDown": {}
   },
   {
@@ -228,7 +228,7 @@
     "uptimeYear": "100.00%",
     "time": 701,
     "timeDay": 508,
-    "timeWeek": 670,
+    "timeWeek": 678,
     "timeMonth": 792,
     "timeYear": 733,
     "dailyMinutesDown": {}
@@ -238,16 +238,16 @@
     "url": "https://outcan.ongarde.net",
     "icon": "https://favicons.githubusercontent.com/outcan.ongarde.net",
     "slug": "fmost-outcan",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1012,
-    "timeDay": 843,
-    "timeWeek": 648,
-    "timeMonth": 787,
+    "timeDay": 695,
+    "timeWeek": 641,
+    "timeMonth": 785,
     "timeYear": 1053,
     "dailyMinutesDown": {}
   },
@@ -281,7 +281,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 364,
-    "timeDay": 233,
+    "timeDay": 229,
     "timeWeek": 850,
     "timeMonth": 693,
     "timeYear": 365,
@@ -317,7 +317,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 368,
-    "timeDay": 1227,
+    "timeDay": 1272,
     "timeWeek": 544,
     "timeMonth": 443,
     "timeYear": 368,
@@ -337,7 +337,7 @@
     "time": 443,
     "timeDay": 173,
     "timeWeek": 234,
-    "timeMonth": 552,
+    "timeMonth": 554,
     "timeYear": 443,
     "dailyMinutesDown": {}
   }
