@@ -50,7 +50,7 @@
     "timeDay": 472,
     "timeWeek": 319,
     "timeMonth": 337,
-    "timeYear": 930,
+    "timeYear": 931,
     "dailyMinutesDown": {}
   },
   {
@@ -68,7 +68,7 @@
     "timeDay": 700,
     "timeWeek": 637,
     "timeMonth": 693,
-    "timeYear": 766,
+    "timeYear": 767,
     "dailyMinutesDown": {}
   },
   {
@@ -86,7 +86,7 @@
     "timeDay": 395,
     "timeWeek": 255,
     "timeMonth": 251,
-    "timeYear": 290,
+    "timeYear": 289,
     "dailyMinutesDown": {}
   },
   {
@@ -140,7 +140,7 @@
     "timeDay": 935,
     "timeWeek": 686,
     "timeMonth": 660,
-    "timeYear": 924,
+    "timeYear": 925,
     "dailyMinutesDown": {}
   },
   {
@@ -158,7 +158,7 @@
     "timeDay": 5705,
     "timeWeek": 4876,
     "timeMonth": 5000,
-    "timeYear": 2827,
+    "timeYear": 2832,
     "dailyMinutesDown": {}
   },
   {
@@ -176,7 +176,7 @@
     "timeDay": 513,
     "timeWeek": 277,
     "timeMonth": 279,
-    "timeYear": 401,
+    "timeYear": 402,
     "dailyMinutesDown": {}
   },
   {
@@ -194,7 +194,7 @@
     "timeDay": 733,
     "timeWeek": 686,
     "timeMonth": 689,
-    "timeYear": 1095,
+    "timeYear": 1096,
     "dailyMinutesDown": {}
   },
   {
@@ -212,7 +212,7 @@
     "timeDay": 6123,
     "timeWeek": 7649,
     "timeMonth": 5166,
-    "timeYear": 2691,
+    "timeYear": 2696,
     "dailyMinutesDown": {}
   },
   {
@@ -245,10 +245,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1005,
-    "timeDay": 462,
+    "timeDay": 464,
     "timeWeek": 561,
     "timeMonth": 760,
-    "timeYear": 1045,
+    "timeYear": 1046,
     "dailyMinutesDown": {}
   },
   {
@@ -284,7 +284,7 @@
     "timeDay": 385,
     "timeWeek": 856,
     "timeMonth": 696,
-    "timeYear": 365,
+    "timeYear": 366,
     "dailyMinutesDown": {}
   },
   {
@@ -310,16 +310,16 @@
     "url": "https://adlapp.ongarde.net/api/article_categories/",
     "icon": "https://favicons.githubusercontent.com/adlapp.ongarde.net",
     "slug": "adl-app-api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 367,
-    "timeDay": 233,
-    "timeWeek": 499,
-    "timeMonth": 435,
+    "timeDay": 287,
+    "timeWeek": 507,
+    "timeMonth": 437,
     "timeYear": 368,
     "dailyMinutesDown": {}
   },
