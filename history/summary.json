@@ -238,7 +238,7 @@
     "url": "https://outcan.ongarde.net",
     "icon": "https://favicons.githubusercontent.com/outcan.ongarde.net",
     "slug": "fmost-outcan",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -282,7 +282,7 @@
     "uptimeYear": "100.00%",
     "time": 382,
     "timeDay": 298,
-    "timeWeek": 813,
+    "timeWeek": 822,
     "timeMonth": 764,
     "timeYear": 385,
     "dailyMinutesDown": {}
