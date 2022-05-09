@@ -24,6 +24,8 @@ sites:
     url: https://dgcb-knowledge.ongarde.net
   - name: DTC (Staging)
     url: https://dtc.ongarde.net
+  - name: DTC (SSC DEV)
+    url: https://167.43.3.210/
   - name: Equella
     url: https://equella.ongarde.net
   - name: Forces.ca
