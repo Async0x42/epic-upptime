@@ -131,7 +131,7 @@
     "icon": "https://favicons.githubusercontent.com/dgcb-knowledge.ongarde.net",
     "slug": "dgcb-knowledge",
     "status": "up",
-    "uptime": "97.11%",
+    "uptime": "97.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -247,7 +247,7 @@
     "time": 704,
     "timeDay": 308,
     "timeWeek": 712,
-    "timeMonth": 754,
+    "timeMonth": 743,
     "timeYear": 734,
     "dailyMinutesDown": {}
   },
@@ -265,7 +265,7 @@
     "time": 1001,
     "timeDay": 1195,
     "timeWeek": 848,
-    "timeMonth": 698,
+    "timeMonth": 701,
     "timeYear": 1048,
     "dailyMinutesDown": {}
   },
@@ -328,7 +328,7 @@
     "url": "https://adlapp.ongarde.net/api/article_categories/",
     "icon": "https://favicons.githubusercontent.com/adlapp.ongarde.net",
     "slug": "adl-app-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -337,7 +337,7 @@
     "time": 384,
     "timeDay": 1368,
     "timeWeek": 455,
-    "timeMonth": 595,
+    "timeMonth": 576,
     "timeYear": 384,
     "dailyMinutesDown": {}
   },
@@ -355,7 +355,7 @@
     "time": 449,
     "timeDay": 287,
     "timeWeek": 1072,
-    "timeMonth": 656,
+    "timeMonth": 668,
     "timeYear": 449,
     "dailyMinutesDown": {}
   }
