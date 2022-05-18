@@ -247,7 +247,7 @@
     "time": 704,
     "timeDay": 308,
     "timeWeek": 715,
-    "timeMonth": 730,
+    "timeMonth": 728,
     "timeYear": 734,
     "dailyMinutesDown": {}
   },
@@ -328,7 +328,7 @@
     "url": "https://adlapp.ongarde.net/api/article_categories/",
     "icon": "https://favicons.githubusercontent.com/adlapp.ongarde.net",
     "slug": "adl-app-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -346,7 +346,7 @@
     "url": "https://qrapp.ongarde.net/api/articles/1/en",
     "icon": "https://favicons.githubusercontent.com/qrapp.ongarde.net",
     "slug": "qr-code-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -355,7 +355,7 @@
     "time": 449,
     "timeDay": 287,
     "timeWeek": 1072,
-    "timeMonth": 688,
+    "timeMonth": 691,
     "timeYear": 449,
     "dailyMinutesDown": {}
   }
