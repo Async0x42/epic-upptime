@@ -1,7 +1,7 @@
 url: https://chat.ongarde.net
-status: up
-code: 200
-responseTime: 2104
-lastUpdated: 2022-06-05T23:03:38.928Z
+status: down
+code: 500
+responseTime: 176
+lastUpdated: 2022-06-06T14:38:20.885Z
 startTime: Mon Apr 19 2021 19:21:44 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
