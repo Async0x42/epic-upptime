@@ -86,7 +86,7 @@
     "timeDay": 158,
     "timeWeek": 266,
     "timeMonth": 268,
-    "timeYear": 286,
+    "timeYear": 285,
     "dailyMinutesDown": {}
   },
   {
@@ -140,7 +140,7 @@
     "timeDay": 289,
     "timeWeek": 442,
     "timeMonth": 601,
-    "timeYear": 934,
+    "timeYear": 935,
     "dailyMinutesDown": {}
   },
   {
@@ -158,7 +158,7 @@
     "timeDay": 287,
     "timeWeek": 1836,
     "timeMonth": 2909,
-    "timeYear": 3038,
+    "timeYear": 3043,
     "dailyMinutesDown": {}
   },
   {
@@ -212,7 +212,7 @@
     "timeDay": 610,
     "timeWeek": 734,
     "timeMonth": 817,
-    "timeYear": 1108,
+    "timeYear": 1109,
     "dailyMinutesDown": {}
   },
   {
@@ -230,7 +230,7 @@
     "timeDay": 1508,
     "timeWeek": 2368,
     "timeMonth": 2671,
-    "timeYear": 2866,
+    "timeYear": 2870,
     "dailyMinutesDown": {}
   },
   {
@@ -266,7 +266,7 @@
     "timeDay": 359,
     "timeWeek": 327,
     "timeMonth": 575,
-    "timeYear": 990,
+    "timeYear": 991,
     "dailyMinutesDown": {}
   },
   {
@@ -292,7 +292,7 @@
     "url": "https://keycloak.ongarde.net",
     "icon": "https://favicons.githubusercontent.com/keycloak.ongarde.net",
     "slug": "keycloak",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
