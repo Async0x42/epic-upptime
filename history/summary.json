@@ -292,7 +292,7 @@
     "url": "https://keycloak.ongarde.net",
     "icon": "https://favicons.githubusercontent.com/keycloak.ongarde.net",
     "slug": "keycloak",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -337,7 +337,7 @@
     "time": 391,
     "timeDay": 261,
     "timeWeek": 307,
-    "timeMonth": 480,
+    "timeMonth": 478,
     "timeYear": 393,
     "dailyMinutesDown": {}
   },
