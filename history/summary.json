@@ -185,7 +185,7 @@
     "icon": "https://favicons.githubusercontent.com/equella.ongarde.net",
     "slug": "equella",
     "status": "up",
-    "uptime": "84.04%",
+    "uptime": "84.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -265,7 +265,7 @@
     "time": 899,
     "timeDay": 368,
     "timeWeek": 740,
-    "timeMonth": 567,
+    "timeMonth": 569,
     "timeYear": 946,
     "dailyMinutesDown": {}
   },
@@ -335,8 +335,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 401,
-    "timeDay": 896,
-    "timeWeek": 468,
+    "timeDay": 862,
+    "timeWeek": 440,
     "timeMonth": 483,
     "timeYear": 402,
     "dailyMinutesDown": {}
