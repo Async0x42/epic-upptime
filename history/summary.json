@@ -131,7 +131,7 @@
     "icon": "https://favicons.githubusercontent.com/dgcb-knowledge.ongarde.net",
     "slug": "dgcb-knowledge",
     "status": "up",
-    "uptime": "97.43%",
+    "uptime": "97.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -265,7 +265,7 @@
     "time": 893,
     "timeDay": 221,
     "timeWeek": 479,
-    "timeMonth": 568,
+    "timeMonth": 570,
     "timeYear": 926,
     "dailyMinutesDown": {}
   },
@@ -335,10 +335,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 404,
-    "timeDay": 1637,
+    "timeDay": 1470,
     "timeWeek": 541,
-    "timeMonth": 461,
-    "timeYear": 406,
+    "timeMonth": 460,
+    "timeYear": 405,
     "dailyMinutesDown": {}
   },
   {
