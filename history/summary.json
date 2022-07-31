@@ -13,7 +13,7 @@
     "time": 491,
     "timeDay": 326,
     "timeWeek": 613,
-    "timeMonth": 533,
+    "timeMonth": 532,
     "timeYear": 482,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 337,
     "timeDay": 308,
     "timeWeek": 419,
-    "timeMonth": 367,
+    "timeMonth": 368,
     "timeYear": 315,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 905,
     "timeDay": 444,
     "timeWeek": 508,
-    "timeMonth": 1294,
+    "timeMonth": 1269,
     "timeYear": 1019,
     "dailyMinutesDown": {}
   },
@@ -67,7 +67,7 @@
     "time": 737,
     "timeDay": 920,
     "timeWeek": 769,
-    "timeMonth": 734,
+    "timeMonth": 733,
     "timeYear": 751,
     "dailyMinutesDown": {}
   },
@@ -85,7 +85,7 @@
     "time": 293,
     "timeDay": 230,
     "timeWeek": 368,
-    "timeMonth": 309,
+    "timeMonth": 308,
     "timeYear": 285,
     "dailyMinutesDown": {}
   },
@@ -139,7 +139,7 @@
     "time": 868,
     "timeDay": 311,
     "timeWeek": 539,
-    "timeMonth": 469,
+    "timeMonth": 470,
     "timeYear": 980,
     "dailyMinutesDown": {}
   },
@@ -193,7 +193,7 @@
     "time": 397,
     "timeDay": 306,
     "timeWeek": 542,
-    "timeMonth": 402,
+    "timeMonth": 404,
     "timeYear": 402,
     "dailyMinutesDown": {}
   },
@@ -211,7 +211,7 @@
     "time": 1040,
     "timeDay": 592,
     "timeWeek": 826,
-    "timeMonth": 862,
+    "timeMonth": 863,
     "timeYear": 1149,
     "dailyMinutesDown": {}
   },
@@ -229,7 +229,7 @@
     "time": 2628,
     "timeDay": 1907,
     "timeWeek": 2203,
-    "timeMonth": 1941,
+    "timeMonth": 1942,
     "timeYear": 2981,
     "dailyMinutesDown": {}
   },
@@ -247,7 +247,7 @@
     "time": 694,
     "timeDay": 220,
     "timeWeek": 316,
-    "timeMonth": 287,
+    "timeMonth": 288,
     "timeYear": 724,
     "dailyMinutesDown": {}
   },
@@ -265,7 +265,7 @@
     "time": 877,
     "timeDay": 551,
     "timeWeek": 381,
-    "timeMonth": 582,
+    "timeMonth": 572,
     "timeYear": 916,
     "dailyMinutesDown": {}
   },
@@ -301,7 +301,7 @@
     "time": 368,
     "timeDay": 261,
     "timeWeek": 301,
-    "timeMonth": 288,
+    "timeMonth": 290,
     "timeYear": 376,
     "dailyMinutesDown": {}
   },
@@ -319,7 +319,7 @@
     "time": 709,
     "timeDay": 1902,
     "timeWeek": 2075,
-    "timeMonth": 1863,
+    "timeMonth": 1867,
     "timeYear": 785,
     "dailyMinutesDown": {}
   },
@@ -328,7 +328,7 @@
     "url": "https://adlapp.ongarde.net/api/article_categories/",
     "icon": "https://favicons.githubusercontent.com/adlapp.ongarde.net",
     "slug": "adl-app-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -336,8 +336,8 @@
     "uptimeYear": "100.00%",
     "time": 406,
     "timeDay": 510,
-    "timeWeek": 557,
-    "timeMonth": 485,
+    "timeWeek": 562,
+    "timeMonth": 476,
     "timeYear": 408,
     "dailyMinutesDown": {}
   },
@@ -353,7 +353,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 457,
-    "timeDay": 256,
+    "timeDay": 248,
     "timeWeek": 308,
     "timeMonth": 308,
     "timeYear": 457,
