@@ -140,7 +140,7 @@
     "timeDay": 740,
     "timeWeek": 437,
     "timeMonth": 485,
-    "timeYear": 882,
+    "timeYear": 856,
     "dailyMinutesDown": {}
   },
   {
@@ -158,7 +158,7 @@
     "timeDay": 631,
     "timeWeek": 397,
     "timeMonth": 421,
-    "timeYear": 2754,
+    "timeYear": 2758,
     "dailyMinutesDown": {}
   },
   {
@@ -185,7 +185,7 @@
     "icon": "https://favicons.githubusercontent.com/equella.ongarde.net",
     "slug": "equella",
     "status": "up",
-    "uptime": "85.33%",
+    "uptime": "85.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -230,7 +230,7 @@
     "timeDay": 2291,
     "timeWeek": 2641,
     "timeMonth": 2162,
-    "timeYear": 2922,
+    "timeYear": 2923,
     "dailyMinutesDown": {}
   },
   {
@@ -256,7 +256,7 @@
     "url": "https://outcan.ongarde.net",
     "icon": "https://favicons.githubusercontent.com/outcan.ongarde.net",
     "slug": "fmost-outcan",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -265,7 +265,7 @@
     "time": 866,
     "timeDay": 504,
     "timeWeek": 446,
-    "timeMonth": 531,
+    "timeMonth": 532,
     "timeYear": 879,
     "dailyMinutesDown": {}
   },
@@ -284,7 +284,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 299,
+    "timeYear": 300,
     "dailyMinutesDown": {}
   },
   {
@@ -320,7 +320,7 @@
     "timeDay": 2428,
     "timeWeek": 1705,
     "timeMonth": 1878,
-    "timeYear": 900,
+    "timeYear": 902,
     "dailyMinutesDown": {}
   },
   {
@@ -335,8 +335,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 404,
-    "timeDay": 301,
-    "timeWeek": 355,
+    "timeDay": 299,
+    "timeWeek": 352,
     "timeMonth": 403,
     "timeYear": 405,
     "dailyMinutesDown": {}
@@ -354,7 +354,7 @@
     "uptimeYear": "100.00%",
     "time": 484,
     "timeDay": 1527,
-    "timeWeek": 831,
+    "timeWeek": 838,
     "timeMonth": 576,
     "timeYear": 484,
     "dailyMinutesDown": {}
