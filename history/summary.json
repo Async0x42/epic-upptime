@@ -256,13 +256,13 @@
     "url": "https://outcan.ongarde.net",
     "icon": "https://favicons.githubusercontent.com/outcan.ongarde.net",
     "slug": "fmost-outcan",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 857,
+    "time": 858,
     "timeDay": 791,
     "timeWeek": 790,
     "timeMonth": 467,
@@ -337,7 +337,7 @@
     "time": 403,
     "timeDay": 352,
     "timeWeek": 321,
-    "timeMonth": 359,
+    "timeMonth": 360,
     "timeYear": 402,
     "dailyMinutesDown": {}
   },
@@ -355,7 +355,7 @@
     "time": 482,
     "timeDay": 271,
     "timeWeek": 437,
-    "timeMonth": 562,
+    "timeMonth": 563,
     "timeYear": 482,
     "dailyMinutesDown": {}
   }
