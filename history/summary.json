@@ -256,7 +256,7 @@
     "url": "https://outcan.ongarde.net",
     "icon": "https://favicons.githubusercontent.com/outcan.ongarde.net",
     "slug": "fmost-outcan",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -328,7 +328,7 @@
     "url": "https://adlapp.ongarde.net/api/article_categories/",
     "icon": "https://favicons.githubusercontent.com/adlapp.ongarde.net",
     "slug": "adl-app-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -338,7 +338,7 @@
     "timeDay": 409,
     "timeWeek": 420,
     "timeMonth": 358,
-    "timeYear": 404,
+    "timeYear": 403,
     "dailyMinutesDown": {}
   },
   {
@@ -355,7 +355,7 @@
     "time": 488,
     "timeDay": 382,
     "timeWeek": 622,
-    "timeMonth": 529,
+    "timeMonth": 531,
     "timeYear": 488,
     "dailyMinutesDown": {}
   }
