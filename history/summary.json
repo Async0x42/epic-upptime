@@ -155,9 +155,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2308,
-    "timeDay": 277,
+    "timeDay": 270,
     "timeWeek": 387,
-    "timeMonth": 378,
+    "timeMonth": 362,
     "timeYear": 2667,
     "dailyMinutesDown": {}
   },
@@ -185,7 +185,7 @@
     "icon": "https://favicons.githubusercontent.com/equella.ongarde.net",
     "slug": "equella",
     "status": "up",
-    "uptime": "86.14%",
+    "uptime": "86.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -230,7 +230,7 @@
     "timeDay": 1860,
     "timeWeek": 1641,
     "timeMonth": 1788,
-    "timeYear": 2875,
+    "timeYear": 2878,
     "dailyMinutesDown": {}
   },
   {
@@ -265,7 +265,7 @@
     "time": 855,
     "timeDay": 606,
     "timeWeek": 1031,
-    "timeMonth": 573,
+    "timeMonth": 577,
     "timeYear": 847,
     "dailyMinutesDown": {}
   },
@@ -328,7 +328,7 @@
     "url": "https://adlapp.ongarde.net/api/article_categories/",
     "icon": "https://favicons.githubusercontent.com/adlapp.ongarde.net",
     "slug": "adl-app-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -336,7 +336,7 @@
     "uptimeYear": "100.00%",
     "time": 403,
     "timeDay": 482,
-    "timeWeek": 365,
+    "timeWeek": 361,
     "timeMonth": 374,
     "timeYear": 401,
     "dailyMinutesDown": {}
