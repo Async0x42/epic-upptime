@@ -148,7 +148,7 @@
     "url": "https://dtc.ongarde.net",
     "icon": "https://favicons.githubusercontent.com/dtc.ongarde.net",
     "slug": "dtc-staging",
-    "status": "down",
+    "status": "up",
     "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -156,9 +156,9 @@
     "uptimeYear": "100.00%",
     "time": 2307,
     "timeDay": 284,
-    "timeWeek": 355,
-    "timeMonth": 356,
-    "timeYear": 2663,
+    "timeWeek": 349,
+    "timeMonth": 354,
+    "timeYear": 2659,
     "dailyMinutesDown": {}
   },
   {
