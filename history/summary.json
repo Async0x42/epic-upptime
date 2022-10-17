@@ -50,7 +50,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1018,
+    "timeYear": 1015,
     "dailyMinutesDown": {}
   },
   {
@@ -203,7 +203,7 @@
     "icon": "https://favicons.githubusercontent.com/forces.ca",
     "slug": "forces-ca",
     "status": "up",
-    "uptime": "99.69%",
+    "uptime": "99.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -328,7 +328,7 @@
     "url": "https://adlapp.ongarde.net/api/article_categories/",
     "icon": "https://favicons.githubusercontent.com/adlapp.ongarde.net",
     "slug": "adl-app-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -337,7 +337,7 @@
     "time": 401,
     "timeDay": 363,
     "timeWeek": 269,
-    "timeMonth": 370,
+    "timeMonth": 372,
     "timeYear": 402,
     "dailyMinutesDown": {}
   },
@@ -355,7 +355,7 @@
     "time": 496,
     "timeDay": 386,
     "timeWeek": 294,
-    "timeMonth": 603,
+    "timeMonth": 606,
     "timeYear": 496,
     "dailyMinutesDown": {}
   }
