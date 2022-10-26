@@ -220,17 +220,17 @@
     "url": "https://forces.ongarde.net",
     "icon": "https://favicons.githubusercontent.com/forces.ongarde.net",
     "slug": "forces-ca-staging",
-    "status": "down",
+    "status": "up",
     "uptime": "99.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2781,
-    "timeDay": 821,
-    "timeWeek": 1036,
-    "timeMonth": 1227,
-    "timeYear": 2859,
+    "time": 2784,
+    "timeDay": 1763,
+    "timeWeek": 1326,
+    "timeMonth": 1296,
+    "timeYear": 2861,
     "dailyMinutesDown": {}
   },
   {
@@ -335,10 +335,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 403,
-    "timeDay": 253,
+    "timeDay": 291,
     "timeWeek": 593,
-    "timeMonth": 380,
-    "timeYear": 405,
+    "timeMonth": 381,
+    "timeYear": 404,
     "dailyMinutesDown": {}
   },
   {
@@ -355,7 +355,7 @@
     "time": 493,
     "timeDay": 389,
     "timeWeek": 295,
-    "timeMonth": 530,
+    "timeMonth": 533,
     "timeYear": 493,
     "dailyMinutesDown": {}
   }
