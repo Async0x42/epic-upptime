@@ -13,7 +13,7 @@
     "time": 490,
     "timeDay": 605,
     "timeWeek": 574,
-    "timeMonth": 579,
+    "timeMonth": 581,
     "timeYear": 467,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 335,
     "timeDay": 482,
     "timeWeek": 449,
-    "timeMonth": 322,
+    "timeMonth": 327,
     "timeYear": 317,
     "dailyMinutesDown": {}
   },
@@ -67,7 +67,7 @@
     "time": 743,
     "timeDay": 734,
     "timeWeek": 816,
-    "timeMonth": 697,
+    "timeMonth": 699,
     "timeYear": 720,
     "dailyMinutesDown": {}
   },
@@ -85,7 +85,7 @@
     "time": 293,
     "timeDay": 378,
     "timeWeek": 607,
-    "timeMonth": 335,
+    "timeMonth": 339,
     "timeYear": 291,
     "dailyMinutesDown": {}
   },
@@ -103,7 +103,7 @@
     "time": 308,
     "timeDay": 416,
     "timeWeek": 408,
-    "timeMonth": 357,
+    "timeMonth": 361,
     "timeYear": 309,
     "dailyMinutesDown": {}
   },
@@ -121,7 +121,7 @@
     "time": 323,
     "timeDay": 401,
     "timeWeek": 401,
-    "timeMonth": 336,
+    "timeMonth": 338,
     "timeYear": 315,
     "dailyMinutesDown": {}
   },
@@ -131,7 +131,7 @@
     "icon": "https://favicons.githubusercontent.com/dgcb-knowledge.ongarde.net",
     "slug": "dgcb-knowledge",
     "status": "up",
-    "uptime": "97.80%",
+    "uptime": "97.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -139,7 +139,7 @@
     "time": 844,
     "timeDay": 472,
     "timeWeek": 440,
-    "timeMonth": 362,
+    "timeMonth": 365,
     "timeYear": 773,
     "dailyMinutesDown": {}
   },
@@ -157,7 +157,7 @@
     "time": 2277,
     "timeDay": 583,
     "timeWeek": 482,
-    "timeMonth": 397,
+    "timeMonth": 400,
     "timeYear": 2550,
     "dailyMinutesDown": {}
   },
@@ -193,7 +193,7 @@
     "time": 403,
     "timeDay": 363,
     "timeWeek": 451,
-    "timeMonth": 381,
+    "timeMonth": 385,
     "timeYear": 375,
     "dailyMinutesDown": {}
   },
@@ -211,7 +211,7 @@
     "time": 1026,
     "timeDay": 974,
     "timeWeek": 1003,
-    "timeMonth": 772,
+    "timeMonth": 780,
     "timeYear": 1195,
     "dailyMinutesDown": {}
   },
@@ -229,7 +229,7 @@
     "time": 2775,
     "timeDay": 1216,
     "timeWeek": 1349,
-    "timeMonth": 1239,
+    "timeMonth": 1261,
     "timeYear": 2808,
     "dailyMinutesDown": {}
   },
@@ -247,7 +247,7 @@
     "time": 691,
     "timeDay": 394,
     "timeWeek": 384,
-    "timeMonth": 295,
+    "timeMonth": 298,
     "timeYear": 686,
     "dailyMinutesDown": {}
   },
@@ -301,7 +301,7 @@
     "time": 379,
     "timeDay": 398,
     "timeWeek": 396,
-    "timeMonth": 272,
+    "timeMonth": 276,
     "timeYear": 383,
     "dailyMinutesDown": {}
   },
@@ -319,7 +319,7 @@
     "time": 954,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1850,
+    "timeMonth": 1917,
     "timeYear": 1083,
     "dailyMinutesDown": {}
   },
@@ -337,8 +337,8 @@
     "time": 404,
     "timeDay": 481,
     "timeWeek": 328,
-    "timeMonth": 378,
-    "timeYear": 405,
+    "timeMonth": 381,
+    "timeYear": 406,
     "dailyMinutesDown": {}
   },
   {
@@ -355,7 +355,7 @@
     "time": 492,
     "timeDay": 322,
     "timeWeek": 386,
-    "timeMonth": 543,
+    "timeMonth": 555,
     "timeYear": 492,
     "dailyMinutesDown": {}
   }
