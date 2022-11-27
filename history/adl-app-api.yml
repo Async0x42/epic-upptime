@@ -1,7 +1,7 @@
 url: https://adlapp.ongarde.net/api/article_categories/
-status: up
-code: 200
-responseTime: 7380
-lastUpdated: 2022-11-27T23:04:36.624Z
+status: down
+code: 503
+responseTime: 319
+lastUpdated: 2022-11-27T23:29:14.167Z
 startTime: Mon Apr 26 2021 14:52:23 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
