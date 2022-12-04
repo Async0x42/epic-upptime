@@ -149,7 +149,7 @@
     "icon": "https://favicons.githubusercontent.com/dtc.ongarde.net",
     "slug": "dtc-staging",
     "status": "up",
-    "uptime": "99.84%",
+    "uptime": "99.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -248,7 +248,7 @@
     "timeDay": 148,
     "timeWeek": 1406,
     "timeMonth": 537,
-    "timeYear": 672,
+    "timeYear": 665,
     "dailyMinutesDown": {}
   },
   {
@@ -328,7 +328,7 @@
     "url": "https://adlapp.ongarde.net/api/article_categories/",
     "icon": "https://favicons.githubusercontent.com/adlapp.ongarde.net",
     "slug": "adl-app-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -336,8 +336,8 @@
     "uptimeYear": "100.00%",
     "time": 415,
     "timeDay": 220,
-    "timeWeek": 474,
-    "timeMonth": 457,
+    "timeWeek": 495,
+    "timeMonth": 459,
     "timeYear": 416,
     "dailyMinutesDown": {}
   },
@@ -353,8 +353,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 471,
-    "timeDay": 264,
-    "timeWeek": 256,
+    "timeDay": 236,
+    "timeWeek": 258,
     "timeMonth": 273,
     "timeYear": 471,
     "dailyMinutesDown": {}
