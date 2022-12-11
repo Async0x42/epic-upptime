@@ -50,7 +50,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 810,
+    "timeYear": 755,
     "dailyMinutesDown": {}
   },
   {
@@ -156,9 +156,9 @@
     "uptimeYear": "100.00%",
     "time": 2242,
     "timeDay": 341,
-    "timeWeek": 381,
+    "timeWeek": 399,
     "timeMonth": 537,
-    "timeYear": 2269,
+    "timeYear": 2251,
     "dailyMinutesDown": {}
   },
   {
@@ -185,7 +185,7 @@
     "icon": "https://favicons.githubusercontent.com/equella.ongarde.net",
     "slug": "equella",
     "status": "up",
-    "uptime": "87.46%",
+    "uptime": "87.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -248,7 +248,7 @@
     "timeDay": 196,
     "timeWeek": 269,
     "timeMonth": 552,
-    "timeYear": 663,
+    "timeYear": 661,
     "dailyMinutesDown": {}
   },
   {
@@ -265,8 +265,8 @@
     "time": 827,
     "timeDay": 212,
     "timeWeek": 285,
-    "timeMonth": 730,
-    "timeYear": 804,
+    "timeMonth": 737,
+    "timeYear": 803,
     "dailyMinutesDown": {}
   },
   {
@@ -302,7 +302,7 @@
     "timeDay": 175,
     "timeWeek": 283,
     "timeMonth": 381,
-    "timeYear": 392,
+    "timeYear": 394,
     "dailyMinutesDown": {}
   },
   {
@@ -328,16 +328,16 @@
     "url": "https://adlapp.ongarde.net/api/article_categories/",
     "icon": "https://favicons.githubusercontent.com/adlapp.ongarde.net",
     "slug": "adl-app-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 416,
-    "timeDay": 537,
-    "timeWeek": 420,
-    "timeMonth": 411,
+    "timeDay": 237,
+    "timeWeek": 426,
+    "timeMonth": 413,
     "timeYear": 418,
     "dailyMinutesDown": {}
   },
@@ -353,8 +353,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 473,
-    "timeDay": 340,
-    "timeWeek": 580,
+    "timeDay": 311,
+    "timeWeek": 598,
     "timeMonth": 303,
     "timeYear": 473,
     "dailyMinutesDown": {}
