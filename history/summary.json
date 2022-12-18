@@ -22,7 +22,7 @@
     "url": "https://survey-sondage.forces.gc.ca/snapwebhost/",
     "icon": "https://favicons.githubusercontent.com/survey-sondage.forces.gc.ca",
     "slug": "snap-survey-external",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -336,7 +336,7 @@
     "uptimeYear": "100.00%",
     "time": 421,
     "timeDay": 237,
-    "timeWeek": 271,
+    "timeWeek": 265,
     "timeMonth": 394,
     "timeYear": 423,
     "dailyMinutesDown": {}
