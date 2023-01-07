@@ -1,7 +1,7 @@
 url: https://dtc.ongarde.net
-status: up
-code: 200
-responseTime: 559
-lastUpdated: 2023-01-06T23:03:46.864Z
+status: down
+code: 500
+responseTime: 384
+lastUpdated: 2023-01-07T08:05:18.584Z
 startTime: Sun Dec 06 2020 23:55:49 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
