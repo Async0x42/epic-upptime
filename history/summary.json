@@ -22,13 +22,13 @@
     "url": "https://survey-sondage.forces.gc.ca/snapwebhost/",
     "icon": "https://favicons.githubusercontent.com/survey-sondage.forces.gc.ca",
     "slug": "snap-survey-external",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 314,
+    "time": 315,
     "timeDay": 476,
     "timeWeek": 303,
     "timeMonth": 317,
@@ -266,7 +266,7 @@
     "timeDay": 404,
     "timeWeek": 320,
     "timeMonth": 332,
-    "timeYear": 775,
+    "timeYear": 776,
     "dailyMinutesDown": {}
   },
   {
@@ -336,7 +336,7 @@
     "uptimeYear": "100.00%",
     "time": 425,
     "timeDay": 336,
-    "timeWeek": 306,
+    "timeWeek": 304,
     "timeMonth": 308,
     "timeYear": 426,
     "dailyMinutesDown": {}
