@@ -31,7 +31,7 @@
     "time": 315,
     "timeDay": 479,
     "timeWeek": 387,
-    "timeMonth": 318,
+    "timeMonth": 315,
     "timeYear": 316,
     "dailyMinutesDown": {}
   },
@@ -328,7 +328,7 @@
     "url": "https://adlapp.ongarde.net/api/article_categories/",
     "icon": "https://favicons.githubusercontent.com/adlapp.ongarde.net",
     "slug": "adl-app-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -337,7 +337,7 @@
     "time": 426,
     "timeDay": 301,
     "timeWeek": 298,
-    "timeMonth": 308,
+    "timeMonth": 309,
     "timeYear": 427,
     "dailyMinutesDown": {}
   },
@@ -355,8 +355,8 @@
     "time": 467,
     "timeDay": 409,
     "timeWeek": 314,
-    "timeMonth": 316,
-    "timeYear": 470,
+    "timeMonth": 318,
+    "timeYear": 469,
     "dailyMinutesDown": {}
   }
 ]
