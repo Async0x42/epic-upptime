@@ -22,14 +22,14 @@
     "url": "https://survey-sondage.forces.gc.ca/snapwebhost/",
     "icon": "https://favicons.githubusercontent.com/survey-sondage.forces.gc.ca",
     "slug": "snap-survey-external",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 315,
-    "timeDay": 277,
+    "timeDay": 292,
     "timeWeek": 361,
     "timeMonth": 312,
     "timeYear": 315,
@@ -50,7 +50,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 796,
+    "timeYear": 797,
     "dailyMinutesDown": {}
   },
   {
@@ -157,8 +157,8 @@
     "time": 2185,
     "timeDay": 493,
     "timeWeek": 430,
-    "timeMonth": 416,
-    "timeYear": 1989,
+    "timeMonth": 417,
+    "timeYear": 1967,
     "dailyMinutesDown": {}
   },
   {
@@ -185,7 +185,7 @@
     "icon": "https://favicons.githubusercontent.com/equella.ongarde.net",
     "slug": "equella",
     "status": "up",
-    "uptime": "88.03%",
+    "uptime": "88.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -336,7 +336,7 @@
     "uptimeYear": "100.00%",
     "time": 426,
     "timeDay": 290,
-    "timeWeek": 309,
+    "timeWeek": 314,
     "timeMonth": 309,
     "timeYear": 428,
     "dailyMinutesDown": {}
@@ -354,9 +354,9 @@
     "uptimeYear": "100.00%",
     "time": 471,
     "timeDay": 267,
-    "timeWeek": 657,
+    "timeWeek": 667,
     "timeMonth": 396,
-    "timeYear": 472,
+    "timeYear": 469,
     "dailyMinutesDown": {}
   }
 ]
