@@ -50,7 +50,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 806,
+    "timeYear": 808,
     "dailyMinutesDown": {}
   },
   {
@@ -148,17 +148,17 @@
     "url": "https://dtc.ongarde.net",
     "icon": "https://favicons.githubusercontent.com/dtc.ongarde.net",
     "slug": "dtc-staging",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2170,
-    "timeDay": 236,
-    "timeWeek": 380,
+    "time": 2155,
+    "timeDay": 319,
+    "timeWeek": 383,
     "timeMonth": 400,
-    "timeYear": 1940,
+    "timeYear": 1938,
     "dailyMinutesDown": {}
   },
   {
@@ -266,7 +266,7 @@
     "timeDay": 181,
     "timeWeek": 271,
     "timeMonth": 313,
-    "timeYear": 711,
+    "timeYear": 712,
     "dailyMinutesDown": {}
   },
   {
@@ -335,10 +335,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 426,
-    "timeDay": 290,
+    "timeDay": 275,
     "timeWeek": 282,
-    "timeMonth": 306,
-    "timeYear": 424,
+    "timeMonth": 307,
+    "timeYear": 425,
     "dailyMinutesDown": {}
   },
   {
