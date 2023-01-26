@@ -29,7 +29,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 316,
-    "timeDay": 244,
+    "timeDay": 176,
     "timeWeek": 294,
     "timeMonth": 319,
     "timeYear": 317,
@@ -157,7 +157,7 @@
     "time": 2138,
     "timeDay": 274,
     "timeWeek": 308,
-    "timeMonth": 386,
+    "timeMonth": 388,
     "timeYear": 1890,
     "dailyMinutesDown": {}
   },
@@ -230,7 +230,7 @@
     "timeDay": 518,
     "timeWeek": 571,
     "timeMonth": 1210,
-    "timeYear": 2510,
+    "timeYear": 2511,
     "dailyMinutesDown": {}
   },
   {
@@ -248,7 +248,7 @@
     "timeDay": 202,
     "timeWeek": 206,
     "timeMonth": 291,
-    "timeYear": 595,
+    "timeYear": 596,
     "dailyMinutesDown": {}
   },
   {
@@ -266,7 +266,7 @@
     "timeDay": 211,
     "timeWeek": 243,
     "timeMonth": 304,
-    "timeYear": 683,
+    "timeYear": 682,
     "dailyMinutesDown": {}
   },
   {
@@ -334,8 +334,8 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 423,
-    "timeDay": 396,
+    "time": 424,
+    "timeDay": 430,
     "timeWeek": 292,
     "timeMonth": 310,
     "timeYear": 421,
@@ -346,13 +346,13 @@
     "url": "https://qrapp.ongarde.net/api/articles/1/en",
     "icon": "https://favicons.githubusercontent.com/qrapp.ongarde.net",
     "slug": "qr-code-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 480,
+    "time": 481,
     "timeDay": 274,
     "timeWeek": 570,
     "timeMonth": 461,
