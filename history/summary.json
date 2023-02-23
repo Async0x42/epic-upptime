@@ -193,7 +193,7 @@
     "time": 372,
     "timeDay": 356,
     "timeWeek": 402,
-    "timeMonth": 378,
+    "timeMonth": 373,
     "timeYear": 373,
     "dailyMinutesDown": {}
   },
@@ -230,7 +230,7 @@
     "timeDay": 1969,
     "timeWeek": 1022,
     "timeMonth": 751,
-    "timeYear": 2299,
+    "timeYear": 2280,
     "dailyMinutesDown": {}
   },
   {
@@ -256,7 +256,7 @@
     "url": "https://outcan.ongarde.net",
     "icon": "https://favicons.githubusercontent.com/outcan.ongarde.net",
     "slug": "fmost-outcan",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -337,7 +337,7 @@
     "time": 433,
     "timeDay": 0,
     "timeWeek": 285,
-    "timeMonth": 464,
+    "timeMonth": 465,
     "timeYear": 435,
     "dailyMinutesDown": {}
   },
@@ -346,7 +346,7 @@
     "url": "https://qrapp.ongarde.net/api/articles/1/en",
     "icon": "https://favicons.githubusercontent.com/qrapp.ongarde.net",
     "slug": "qr-code-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -354,8 +354,8 @@
     "uptimeYear": "100.00%",
     "time": 498,
     "timeDay": 379,
-    "timeWeek": 498,
-    "timeMonth": 558,
+    "timeWeek": 506,
+    "timeMonth": 524,
     "timeYear": 507,
     "dailyMinutesDown": {}
   }
