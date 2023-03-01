@@ -185,7 +185,7 @@
     "icon": "https://favicons.githubusercontent.com/equella.ongarde.net",
     "slug": "equella",
     "status": "up",
-    "uptime": "88.70%",
+    "uptime": "88.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -264,7 +264,7 @@
     "uptimeYear": "100.00%",
     "time": 677,
     "timeDay": 500,
-    "timeWeek": 1265,
+    "timeWeek": 1305,
     "timeMonth": 999,
     "timeYear": 666,
     "dailyMinutesDown": {}
@@ -337,8 +337,8 @@
     "time": 435,
     "timeDay": 428,
     "timeWeek": 286,
-    "timeMonth": 549,
-    "timeYear": 433,
+    "timeMonth": 559,
+    "timeYear": 434,
     "dailyMinutesDown": {}
   },
   {
@@ -346,17 +346,17 @@
     "url": "https://qrapp.ongarde.net/api/articles/1/en",
     "icon": "https://favicons.githubusercontent.com/qrapp.ongarde.net",
     "slug": "qr-code-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 507,
-    "timeDay": 1212,
+    "timeDay": 1494,
     "timeWeek": 457,
     "timeMonth": 530,
-    "timeYear": 510,
+    "timeYear": 506,
     "dailyMinutesDown": {}
   }
 ]
