@@ -230,7 +230,7 @@
     "timeDay": 677,
     "timeWeek": 749,
     "timeMonth": 831,
-    "timeYear": 2177,
+    "timeYear": 2176,
     "dailyMinutesDown": {}
   },
   {
@@ -266,7 +266,7 @@
     "timeDay": 340,
     "timeWeek": 1593,
     "timeMonth": 939,
-    "timeYear": 663,
+    "timeYear": 664,
     "dailyMinutesDown": {}
   },
   {
@@ -337,7 +337,7 @@
     "time": 435,
     "timeDay": 392,
     "timeWeek": 320,
-    "timeMonth": 575,
+    "timeMonth": 580,
     "timeYear": 435,
     "dailyMinutesDown": {}
   },
@@ -346,14 +346,14 @@
     "url": "https://qrapp.ongarde.net/api/articles/1/en",
     "icon": "https://favicons.githubusercontent.com/qrapp.ongarde.net",
     "slug": "qr-code-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 508,
-    "timeDay": 405,
+    "timeDay": 272,
     "timeWeek": 552,
     "timeMonth": 547,
     "timeYear": 505,
