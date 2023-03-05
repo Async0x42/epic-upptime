@@ -202,17 +202,17 @@
     "url": "https://forces.ca",
     "icon": "https://favicons.githubusercontent.com/forces.ca",
     "slug": "forces-ca",
-    "status": "down",
+    "status": "up",
     "uptime": "99.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1102,
-    "timeDay": 5282,
-    "timeWeek": 3597,
-    "timeMonth": 1658,
-    "timeYear": 1292,
+    "time": 1113,
+    "timeDay": 5543,
+    "timeWeek": 3845,
+    "timeMonth": 1803,
+    "timeYear": 1305,
     "dailyMinutesDown": {}
   },
   {
@@ -354,9 +354,9 @@
     "uptimeYear": "100.00%",
     "time": 508,
     "timeDay": 309,
-    "timeWeek": 556,
+    "timeWeek": 560,
     "timeMonth": 533,
-    "timeYear": 500,
+    "timeYear": 495,
     "dailyMinutesDown": {}
   }
 ]
