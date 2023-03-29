@@ -131,7 +131,7 @@
     "icon": "https://favicons.githubusercontent.com/dgcb-knowledge.ongarde.net",
     "slug": "dgcb-knowledge",
     "status": "up",
-    "uptime": "98.19%",
+    "uptime": "98.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -212,7 +212,7 @@
     "timeDay": 0,
     "timeWeek": 691,
     "timeMonth": 2380,
-    "timeYear": 1113,
+    "timeYear": 1094,
     "dailyMinutesDown": {}
   },
   {
@@ -346,7 +346,7 @@
     "url": "https://qrapp.ongarde.net/api/articles/1/en",
     "icon": "https://favicons.githubusercontent.com/qrapp.ongarde.net",
     "slug": "qr-code-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -354,8 +354,8 @@
     "uptimeYear": "100.00%",
     "time": 501,
     "timeDay": 2134,
-    "timeWeek": 460,
-    "timeMonth": 542,
+    "timeWeek": 469,
+    "timeMonth": 543,
     "timeYear": 512,
     "dailyMinutesDown": {}
   }
