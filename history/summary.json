@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 319,
     "timeDay": 268,
-    "timeWeek": 320,
+    "timeWeek": 306,
     "timeMonth": 337,
     "timeYear": 325,
     "dailyMinutesDown": {}
@@ -185,7 +185,7 @@
     "icon": "https://favicons.githubusercontent.com/equella.ongarde.net",
     "slug": "equella",
     "status": "up",
-    "uptime": "89.08%",
+    "uptime": "89.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -346,7 +346,7 @@
     "url": "https://qrapp.ongarde.net/api/articles/1/en",
     "icon": "https://favicons.githubusercontent.com/qrapp.ongarde.net",
     "slug": "qr-code-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -354,8 +354,8 @@
     "uptimeYear": "100.00%",
     "time": 501,
     "timeDay": 1231,
-    "timeWeek": 462,
-    "timeMonth": 546,
+    "timeWeek": 464,
+    "timeMonth": 536,
     "timeYear": 512,
     "dailyMinutesDown": {}
   }
