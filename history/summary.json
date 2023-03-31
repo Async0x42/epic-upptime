@@ -13,7 +13,7 @@
     "time": 477,
     "timeDay": 673,
     "timeWeek": 464,
-    "timeMonth": 446,
+    "timeMonth": 453,
     "timeYear": 489,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 319,
     "timeDay": 486,
     "timeWeek": 347,
-    "timeMonth": 339,
+    "timeMonth": 341,
     "timeYear": 325,
     "dailyMinutesDown": {}
   },
@@ -67,7 +67,7 @@
     "time": 709,
     "timeDay": 732,
     "timeWeek": 583,
-    "timeMonth": 544,
+    "timeMonth": 550,
     "timeYear": 685,
     "dailyMinutesDown": {}
   },
@@ -85,7 +85,7 @@
     "time": 291,
     "timeDay": 431,
     "timeWeek": 333,
-    "timeMonth": 313,
+    "timeMonth": 317,
     "timeYear": 300,
     "dailyMinutesDown": {}
   },
@@ -103,7 +103,7 @@
     "time": 314,
     "timeDay": 479,
     "timeWeek": 303,
-    "timeMonth": 345,
+    "timeMonth": 348,
     "timeYear": 325,
     "dailyMinutesDown": {}
   },
@@ -121,7 +121,7 @@
     "time": 324,
     "timeDay": 435,
     "timeWeek": 285,
-    "timeMonth": 307,
+    "timeMonth": 312,
     "timeYear": 338,
     "dailyMinutesDown": {}
   },
@@ -139,7 +139,7 @@
     "time": 634,
     "timeDay": 482,
     "timeWeek": 311,
-    "timeMonth": 326,
+    "timeMonth": 331,
     "timeYear": 493,
     "dailyMinutesDown": {}
   },
@@ -157,7 +157,7 @@
     "time": 1865,
     "timeDay": 637,
     "timeWeek": 407,
-    "timeMonth": 399,
+    "timeMonth": 405,
     "timeYear": 1191,
     "dailyMinutesDown": {}
   },
@@ -185,7 +185,7 @@
     "icon": "https://favicons.githubusercontent.com/equella.ongarde.net",
     "slug": "equella",
     "status": "up",
-    "uptime": "89.09%",
+    "uptime": "89.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -193,7 +193,7 @@
     "time": 381,
     "timeDay": 642,
     "timeWeek": 371,
-    "timeMonth": 391,
+    "timeMonth": 395,
     "timeYear": 381,
     "dailyMinutesDown": {}
   },
@@ -211,7 +211,7 @@
     "time": 1251,
     "timeDay": 1065,
     "timeWeek": 703,
-    "timeMonth": 2331,
+    "timeMonth": 2292,
     "timeYear": 947,
     "dailyMinutesDown": {}
   },
@@ -229,7 +229,7 @@
     "time": 2384,
     "timeDay": 1123,
     "timeWeek": 6945,
-    "timeMonth": 2287,
+    "timeMonth": 2201,
     "timeYear": 2076,
     "dailyMinutesDown": {}
   },
@@ -247,7 +247,7 @@
     "time": 571,
     "timeDay": 499,
     "timeWeek": 294,
-    "timeMonth": 332,
+    "timeMonth": 335,
     "timeYear": 542,
     "dailyMinutesDown": {}
   },
@@ -265,7 +265,7 @@
     "time": 658,
     "timeDay": 442,
     "timeWeek": 330,
-    "timeMonth": 331,
+    "timeMonth": 651,
     "timeYear": 611,
     "dailyMinutesDown": {}
   },
@@ -301,7 +301,7 @@
     "time": 411,
     "timeDay": 0,
     "timeWeek": 250,
-    "timeMonth": 288,
+    "timeMonth": 292,
     "timeYear": 436,
     "dailyMinutesDown": {}
   },
@@ -337,7 +337,7 @@
     "time": 438,
     "timeDay": 439,
     "timeWeek": 283,
-    "timeMonth": 282,
+    "timeMonth": 287,
     "timeYear": 444,
     "dailyMinutesDown": {}
   },
@@ -355,8 +355,8 @@
     "time": 501,
     "timeDay": 362,
     "timeWeek": 471,
-    "timeMonth": 534,
-    "timeYear": 512,
+    "timeMonth": 540,
+    "timeYear": 513,
     "dailyMinutesDown": {}
   }
 ]
