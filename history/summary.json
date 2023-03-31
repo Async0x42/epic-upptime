@@ -4,17 +4,17 @@
     "url": "https://git.ongarde.net/",
     "icon": "https://favicons.githubusercontent.com/git.ongarde.net",
     "slug": "git-lab",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 477,
-    "timeDay": 673,
-    "timeWeek": 464,
-    "timeMonth": 453,
-    "timeYear": 489,
+    "time": 476,
+    "timeDay": 463,
+    "timeWeek": 434,
+    "timeMonth": 447,
+    "timeYear": 488,
     "dailyMinutesDown": {}
   },
   {
@@ -355,7 +355,7 @@
     "time": 504,
     "timeDay": 643,
     "timeWeek": 524,
-    "timeMonth": 540,
+    "timeMonth": 542,
     "timeYear": 510,
     "dailyMinutesDown": {}
   }
