@@ -203,7 +203,7 @@
     "icon": "https://favicons.githubusercontent.com/forces.ca",
     "slug": "forces-ca",
     "status": "up",
-    "uptime": "99.75%",
+    "uptime": "99.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -256,7 +256,7 @@
     "url": "https://outcan.ongarde.net",
     "icon": "https://favicons.githubusercontent.com/outcan.ongarde.net",
     "slug": "fmost-outcan",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -338,7 +338,7 @@
     "timeDay": 0,
     "timeWeek": 296,
     "timeMonth": 282,
-    "timeYear": 444,
+    "timeYear": 445,
     "dailyMinutesDown": {}
   },
   {
@@ -353,9 +353,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 506,
-    "timeDay": 1294,
-    "timeWeek": 639,
-    "timeMonth": 535,
+    "timeDay": 1150,
+    "timeWeek": 653,
+    "timeMonth": 536,
     "timeYear": 513,
     "dailyMinutesDown": {}
   }
